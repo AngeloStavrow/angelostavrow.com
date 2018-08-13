@@ -1,0 +1,31 @@
+languageCode = "en-CA"
+theme = "indigo"
+baseURL = "https://angelostavrow.com/"
+title = "Angelo Stavrow"
+
+[params]
+  AuthorName = "Angelo Stavrow"
+  Description = "Angelo Stavrow's website"
+  Subtitle = "A personal internet website."
+  Avatar = "/images/avatar.jpg"
+
+  # Copyright owner for display in the footer:
+  CopyrightOwner = "Angelo Stavrow"
+
+  # Contact/social-network identifiers
+  EmailAddress = "contact@angelostavrow.com"
+  FlickrUser = "astavrow"
+  GitHubUser = "AngeloStavrow"
+  GitLabUser = "AngeloStavrow"
+  GlitchUser = "AngeloStavrow"
+  TwitterUser = "AngeloStavrow"
+  MicroBlogUser = "angelostavrow"
+
+  # These are parameters used for indieweb identity. You should set these along
+  # with the top-level email/social network parameters.
+  [params.indieWeb]  
+    EmailAddress = "contact@angelostavrow.com"
+    FlickrUser = "astavrow"
+    GitHubUser = "AngeloStavrow"
+    TwitterUser = "AngeloStavrow"
+    MicroBlogUser = "angelostavrow"
