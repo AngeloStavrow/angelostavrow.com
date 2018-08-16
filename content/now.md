@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: 2018-04-30T18:35:45-04:00
+date: 1900-01-01T04:00:00-04:00
 static: true
 draft: false
 ---
