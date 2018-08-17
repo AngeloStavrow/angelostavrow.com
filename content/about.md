@@ -1,11 +1,10 @@
 ---
 title: "About this site"
-date: 1900-01-01T04:00:00-04:00
-static: true
+linkTitle: "About"
+menu: "main"
 draft: false
 ---
 
-# About this site
 This is my personal website and blog. If you'd like to know more about what I'm up to at the moment, check out my [now](/now) page. You can get in touch with me via [email](mailto:contact@angelostavrow.com).
 
 ## Philosophy

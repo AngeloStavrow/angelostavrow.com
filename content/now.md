@@ -1,10 +1,8 @@
 ---
 title: "Now"
-date: 1900-01-01T04:00:00-04:00
-static: true
+menu: "main"
 draft: false
 ---
-
 
 Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives you a little bit of information on what I'm up to these days.
 
