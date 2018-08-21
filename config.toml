@@ -8,6 +8,7 @@ title = "Angelo Stavrow"
   Description = "Angelo Stavrow's website"
   Subtitle = "A personal internet website."
   Avatar = "/images/avatar.jpg"
+  PermalinkText = "⏳"
 
   # Copyright owner for display in the footer:
   CopyrightOwner = "Angelo Stavrow"

@@ -2,6 +2,7 @@
 title: "And we're back"
 date: 2018-08-12T15:30:00-04:00
 draft: false
+tags: ["meta"]
 ---
 
 It's been almost four months since I last wrote something. I've been pretty busy over the last little while completely overhauling this site, and there are a few changes that I'd like to point out.
