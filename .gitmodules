@@ -1,7 +1,3 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:AngeloStavrow/AngeloStavrow.github.io.git
-	branch = master
 [submodule "themes/indigo"]
 	path = themes/indigo
 	url = git@github.com:AngeloStavrow/indigo.git
