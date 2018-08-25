@@ -195,12 +195,12 @@ a {
 }
 
 a:visited {
-    color: #3aa;
+    color: #33aaaa;
 }
 
 a:hover {
     background-color: #0d7b76;
-    color: #eff;
+    color: #eeffff;
 }
 
 h1.post-title {
@@ -213,12 +213,12 @@ h2.list-title > a {
 }
 
 h2.list-title > a:visited {
-    color: #3aa;
+    color: #33aaaa;
 }
 
 h2.list-title > a:hover {
     background-color: #f8f8f8;
-    color: #6cc;
+    color: #66cccc;
 }
 
 a.read-more {
@@ -233,7 +233,7 @@ section.content {
 
 p.post-date {
     background-color: #0d7b76;
-    color: #eff;
+    color: #eeffff;
     font-family: 'Fira Sans', Fallback, sans-serif;
     font-size: smaller;
     margin: 0 0 2.5em 0;
@@ -241,7 +241,7 @@ p.post-date {
 }
 
 a.p-author {
-    color: #eff;
+    color: #eeffff;
     text-decoration: none;
 }
 
@@ -275,9 +275,8 @@ p.list-post-date {
 
 blockquote {
     color: #0d7b76;
-    background-color: #eff;
+    background-color: #eeffff;
     border-left: 25px solid #0d7b76;
-    /*font-size: xx-large;*/
     line-height: 1.25em;
     margin: 2em auto;
     padding: 1% 5%;
@@ -285,14 +284,14 @@ blockquote {
 }
 
 code {
-    background-color: #eff;
+    background-color: #eeffff;
     color: #0d7b76;
     font-family: 'Fira Code';
     padding: 0.1em 0.2em 0.1em 0.2em;
 }
 
 pre {
-    background-color: #eff;
+    background-color: #eeffff;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 0.8em;
@@ -324,16 +323,16 @@ a.permalink {
 }
 
 a.post-tag {
-    background-color: #eff;
-    border: 1px solid #6cc;
+    background-color: #eeffff;
+    border: 1px solid #66cccc;
     border-radius: 5px;
-    color: #399;
+    color: #33aaaa;
     padding: 0.15em 0.3em 0.1em 0.3em;
     text-decoration: none;
 }
 
 a.post-tag:hover {
-    background-color: #6cc;
+    background-color: #66cccc;
     color: #fff;
 }
 
@@ -354,7 +353,6 @@ div#site-header > p {
 }
 
 div#page-nav, #pagination {
-    display: inline-block;
     font-family: 'Fira Sans', Fallback, sans-serif;
     font-size: smaller;
     line-height: 1em;
@@ -365,39 +363,39 @@ div#page-nav, #pagination {
     width: 100%;
 }
 
-div.static-page-nav-item, div.static-page-nav-item-disabled, div.static-page-nav-spacer {
-    display: inline-block;
-    float: left;
-    margin: 0;
-    padding: 0;
-    width: 20%;
+#page-nav {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
 }
 
-div.static-page-nav-item > a {
+div.page-nav-item, div.page-nav-spacer {
+    flex: 1 1 auto;
+    margin: 0;
+    padding: 0;
+}
+
+div.page-nav-item > a {
     color: #0d7b76;
     display: block;
     text-decoration: none;
+    width: 100%;
 }
 
-div.static-page-nav-item > a:hover {
-    color: #eff;
-}
-
-div.static-page-nav-item:hover, div.pagination-item:hover {
+div.page-nav-item > a:hover {
     background-color: #0d7b76;
-}
-
-div.static-page-nav-item-disabled > p {
-    display: block;
-    font-weight: bold;
-    line-height: 1em;
-    margin: 0;
-    padding: 0;
+    color: #eeffff;
 }
 
 div#pagination {
-    margin-bottom: 0;
-    margin-top: 3.5em;
+    display: inline-block;
+    margin: 3.5em 0;
+}
+
+div.pagination-item:hover {
+    background-color: #0d7b76;
 }
 
 div.pagination-item, div.pagination-item-spacer {
@@ -415,13 +413,13 @@ div.pagination-item > a {
 }
 
 div.pagination-item > a:hover {
-    color: #eff;
+    color: #eeffff;
 }
 
 aside#social {
     border-top: 2px solid #3f3f3f;
     height: 48px;
-    margin: 5em auto 0 auto;
+    margin: 0 auto;
     width: 100%;
 }
 
@@ -435,6 +433,63 @@ div#social-icons {
 .icon-24x24 {
     height: 24px;
     width: 24px;
+}
+
+nav#article-skip {
+    align-items: flex-start;
+    border-top: 1px solid #ccc;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-family: 'Fira Sans', Fallback, sans-serif;
+    font-size: smaller;
+    justify-content: space-around;
+    line-height: 1em;
+    margin: 5em 0 0 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.next, .prev, .top {
+    flex: 0 1 auto;
+    margin: 0;
+    padding: 0.5em;
+    width: 100%;
+}
+
+.next {
+    text-align: right;
+}
+
+.prev {
+    text-align: left;
+}
+
+.top {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+div.next > p,
+div.prev > p {
+    margin: 0;
+    padding: 0;
+}
+
+div.next > a,
+div.prev > a,
+div.top > a {
+    color: #0d7b76;
+    text-decoration: none;
+}
+
+
+div.next > a:hover,
+div.prev > a:hover,
+div.top > a:hover {
+    background-color: #0d7b76;
+    color: #eeffff;
 }
 
 /* For the micro.blog sidebar.js content */
