@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/tags/</link>
+    <description>Recent content in Tags on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Tue, 21 Aug 2018 05:45:07 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glitch</title>
+      <link>https://angelostavrow.com/tags/glitch/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/tags/glitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://angelostavrow.com/tags/javascript/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://angelostavrow.com/tags/meta/</link>
+      <pubDate>Sun, 12 Aug 2018 15:30:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://angelostavrow.com/tags/projects/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tghr</title>
+      <link>https://angelostavrow.com/tags/tghr/</link>
+      <pubDate>Fri, 03 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/tags/tghr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

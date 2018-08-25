@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glitch on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/tags/glitch/</link>
+    <description>Recent content in Glitch on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Tue, 21 Aug 2018 05:45:07 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/tags/glitch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glitch Project Name Lottery</title>
+      <link>https://angelostavrow.com/post/glitch-project-name-lottery/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/glitch-project-name-lottery/</guid>
+      <description>Glitch creates randomized project names when you remix a project, and they look something like adjective-noun.glitch.me. You can always rename these later, but oftentimes they’re just too amusing to bother (I’m looking at you, victorious-beer).
+So, what if you decided that you were going to remix the node starter app, and then had to spend a couple of hours building an app based purely on the random name you were assigned?</description>
+    </item>
+    
+  </channel>
+</rss>

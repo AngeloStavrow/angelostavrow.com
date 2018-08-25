@@ -1,0 +1,15 @@
+philosophy.txt
+==============
+
+Should software or a website have a philosophy? Yes, if you want it to matter.
+
+- I believe in accessibility.
+- I believe in a network of independently-operated websites.
+- I believe in owning your content.
+- I believe we can do better than content silos where our creativity is algorithmically analysed and monetized.
+- I believe in Publishing on your Own Site and Syndicating Elsewhere. (see: https://indieweb.org/POSSE)
+- I believe in RSS.
+- I believe in HTML and CSS.
+- I believe in JavaScript, so long as it serves the reader.
+
+This site is built according to these beliefs.

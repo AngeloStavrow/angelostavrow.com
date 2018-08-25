@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Angelo Stavrow</title>
+    <meta name="description" content="Angelo Stavrow&#39;s website">
+    <meta name="author" content="Angelo Stavrow">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00416a">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="me" href="mailto:contact@angelostavrow.com">
+    <link rel="me" href="https://github.com/AngeloStavrow">
+    <link rel="me" href="https://twitter.com/AngeloStavrow">
+    <link rel="me" href="https://micro.blog/angelostavrow">
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    
+    <link rel="stylesheet" href="https://angelostavrow.com/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div id="sitelogo">
+        <a class="glyph" alt="Home" href="https://angelostavrow.com/"><img src="https://angelostavrow.com//images/site-logo.svg" alt="Site Logo" height="64px" width="64px"></a>
+    </div>
+    <header>        
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://angelostavrow.com/">Home</a>
+        </div>
+        
+            <div class="page-nav-item">
+                <a href="/about/">
+                    
+                    <span>About</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/now/">
+                    
+                    <span>Now</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/updates/">
+                    
+                    <span>Updates</span>
+                </a>
+            </div>
+        
+    </div>
+</nav>
+        
+    </header>
+    <div id="content">
+
+<article class="h-entry">
+    <header>
+        <h1 class="post-title p-name">TGHR: Opening the source</h1>
+        
+        
+        <p class="post-date">Posted on
+            <time class="dt-published" datetime="2016-05-28T12:00:00-04:00">
+              28 May, 2016 at 12:00 EDT
+            </time> by <a href="Page%28%22Angelo%20Stavrow%22%29" class="p-author">Angelo Stavrow</a>
+        </p>
+        
+    </header>
+    <section class="content e-content">
+        
+
+<blockquote><strong>The Great HoneyJar Refactoring</strong> is a series of posts in which I take the first iOS app I ever wrote, <a href="http://droppedbits.com/honeyjar/">HoneyJar</a>, and refactor it out of its original burning-dumpster-fire state and into a modern app. And I'm doing it <a href="https://gitlab.com/AngeloStavrow/HoneyJar">in public</a>.</blockquote>
+
+<p><a href="/blog/2016/5/20/the-great-honeyjar-refactoring">Last week</a> I introduced an idea I had: to open-source my first-ever iOS app, embarrassing as it might be, and refactor it out in the open.</p>
+
+<p>Over the last week, I handled the open-sourcing of the app. This took a bit more time than I expected, and normally this should be done <em>before</em> releasing the project to the wild, but I figured it might be interesting to see just what the process was, what I learned, and some resources I found along the way.</p>
+
+<h2 id="the-starting-point">The starting point</h2>
+
+<p>HoneyJar, in its closed-source state, was very clearly an &ldquo;I&rsquo;m learning as I go and am super excited to ship&rdquo; kind of project. It had a <a href="https://gitlab.com/AngeloStavrow/HoneyJar/blob/4b5fa1653ac040ebe6f0896bd17b4ba463fc80aa/README.md">README</a>, kinda, which really just re-iterated some tagline-style description of the project, and that&rsquo;s it. Unit tests were few and far between, comments were… <a href="/blog/2016/5/13/on-comments">not awesome</a>, and there was no real structure in place to make it useful for other contributors.</p>
+
+<p>So the first step was to do exactly that. I opened the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/issues/1">first issue</a> and set up a task list:</p>
+
+<ul>
+<li>Add a CONTRIBUTING document</li>
+<li>Add a LICENSE document</li>
+<li>Add a CHANGELOG document</li>
+<li>Update the README to provide more information on the project</li>
+<li>Set up GitLab continuous integration</li>
+</ul>
+
+<p>Okay. I know. That <em>sounds</em> like a pretty straightforward list. Quick and easy to add. Turns out, you should put a little effort into these things.</p>
+
+<h2 id="readez-moi">Readez-moi</h2>
+
+<p>The first thing most people will see in a project is the README file. This should provide some information on how to install/use the project, where to find further info on licensing and contributing, &amp;cet. But how much info? What exactly do I need to add?</p>
+
+<p>I found <a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">an excellent template</a> by <a href="https://github.com/PurpleBooth">Billie Thompson</a> that fits the bill nicely. While I&rsquo;ve commented out a bunch of stuff that isn&rsquo;t necessarily relevant (or maybe not relevant yet), I think it provides a pretty good overview of the what, who, why, and hows of the project. I&rsquo;m relatively happy with the way the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/blob/master/README.md">README</a> turned out.</p>
+
+<h2 id="with-every-change-log-log-log">With every change, log, log, log</h2>
+
+<p>Next up: everyone&rsquo;s favourite, the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/blob/master/CHANGELOG.md">CHANGELOG</a>.</p>
+
+<p>No, seriously. This either gets totally overlooked, or totally becomes a series of punchlines about episodes of Friends or whatever. In trying to figure out what needs to go into a change log, I discovered <a href="http://keepachangelog.com/">Keep A CHANGLELOG</a>. Great resource.</p>
+
+<p>As you go through merging in changes, part of the merge should including updating the change log with whatever you&rsquo;ve, well, changed. As the project maintainers indicate, typical sections are:</p>
+
+<blockquote>
+<ul>
+<li><code>Added</code> for new features.</li>
+<li><code>Changed</code> for changes in existing functionality.</li>
+<li><code>Deprecated</code> for once-stable features removed in upcoming releases.</li>
+<li><code>Removed</code> for deprecated features removed in this release.</li>
+<li><code>Fixed</code> for any bug fixes.</li>
+<li><code>Security</code> to invite users to upgrade in case of vulnerabilities.</li>
+</ul>
+</blockquote>
+
+<p>Additionally&mdash;I love this&mdash; every subtitle of the document should be a link to a <code>git compare</code> of the previous and current tags (or <code>HEAD</code>, if you&rsquo;re working on an unreleased version).</p>
+
+<p>Excellent idea.</p>
+
+<h2 id="license-to-thrive">License to thrive</h2>
+
+<p><a href="https://blog.codinghorror.com/pick-a-license-any-license/">Jeff Atwood said it in 5 words</a>. Pick a license. This is important, or you&rsquo;re pretty much putting your work out there without letting anyone know if they can use it. Picking a license helps you both cut the overhead of having to reply to emails (&ldquo;can I use this code?&rdquo;) while putting down some ground rules on how your work can be used.</p>
+
+<p>I went with a simple <a href="https://gitlab.com/AngeloStavrow/HoneyJar/blob/master/LICENSE">3-clause BSD license</a>. Essentially, this is a use-as-is-without-warranty license, requiring attribution by others who redistribute your work, and written permission if they want to use my name (or my organization&rsquo;s name) in any endorsement or promotion of their derived products.</p>
+
+<h2 id="just-add-contributors">Just add contributors</h2>
+
+<p>The hardest to set up was the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/blob/master/CONTRIBUTING.md">CONTRIBUTING</a> document. Here, there are two main things I wanted to address:</p>
+
+<ol>
+<li>Expectations of all involved (i.e., a code of conduct), and</li>
+<li>Just <em>how</em> to contribute.</li>
+</ol>
+
+<p>The how-to-contribute part is pretty straightforward. Everything should start with an issue, and once labels and owners are assigned, work can begin. There&rsquo;s some basic info on how to report a bug vs. how to add a feature request, and I added some requirements for merge requests too. Such requirements can get pretty complex and involved, but it&rsquo;s important to step back and examine the scope of the project too. We&rsquo;re not building CocoaPods here; a tiny not-super-important project like HoneyJar probably won&rsquo;t attract much in the way of contributions, so there&rsquo;s no need for overly complex requirements for making changes.</p>
+
+<p>That said, I believe that <em>any</em> project, regardless of size, has the potential for community. And a community is only as good as the expectations for interaction. In my work, as in my life, I really try to come from a position of trust, mindfulness, and open-ness, so putting together a code of conduct that embraces these values is important to me.</p>
+
+<p>Luckily, I&rsquo;m not the only one that feels this way. The <a href="http://contributor-covenant.org/version/1/4/code_of_conduct.md">Contributor Covenant</a> is a good place to start, and other open-source communities (<a href="https://thoughtbot.com/open-source-code-of-conduct">1</a>, <a href="https://github.com/CocoaPods/CocoaPods/blob/master/CODE_OF_CONDUCT.md">2</a>, <a href="https://swift.org/community/">3</a>, as examples) have done a great job of adapting it. I&rsquo;ve followed in their footsteps, and I think the code of conduct section nicely explains the let&rsquo;s-be-wonderful-to-each-other feels that I want in my community.</p>
+
+<h2 id="all-the-great-fails">All the great fails</h2>
+
+<p>The last thing I absolutely wanted up and running for this first issue was to get continuous integration up and running.</p>
+
+<p>&ldquo;But Angelo, you don&rsquo;t have a test suite set up for your project.&rdquo;</p>
+
+<p>Yeah, I know. But the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/issues/2">next big step</a> before I start working on the actual refactoring is <em>exactly that</em>: add a test suite for existing code. It would be downright silly to try refactoring something without making sure that you&rsquo;re not breaking anything as you go through.</p>
+
+<p>So, I followed <a href="https://about.gitlab.com/2016/03/10/setting-up-gitlab-ci-for-ios-projects/">the steps in the article I wrote</a> and created a new runner and a <code>.gitlab-ci.yml</code> file, along with some sample test, to make sure everything&rsquo;s working.</p>
+
+<p>And builds kept getting stuck with the error:</p>
+
+<pre><code>Failed to authorize rights (0x1) with status: -60007.
+</code></pre>
+
+<p>Turns out, <a href="https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/issues/1143">I needed to update the runner on my build machine</a> to address some changes in Xcode 7.3&mdash;once that was done, things started building as expected. One of the great things about GitLab being an open-source project is that if you&rsquo;re running into trouble, there&rsquo;s likely an issue available to help you figure out what&rsquo;s happening and how to fix it (and if there isn&rsquo;t, open one!).</p>
+
+<p>I&rsquo;ve left the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/builds">build history</a> as-is, along with the <a href="https://gitlab.com/AngeloStavrow/HoneyJar/commits/9a3e8202b2dab26bf2ed45251918cfa5c844b0fc">commit history</a>, as breadcrumbs to how I managed to get things working, along with the stupid mistakes like overlooked typos in your runner tags. I don&rsquo;t think there&rsquo;s any value in trying to hide these goofs, because they could be invaluable the next time you&rsquo;re yelling at your system for not <em>just working come on you stupid thing everything was fine a minute ago what do you mean this tag doesn&rsquo;t exist</em>.</p>
+
+<h2 id="onwards-and-upwards">Onwards and upwards</h2>
+
+<p>So, the project is now, IMO, officially open-sourced. The next big step is to add the test suite, and <em>then</em> I can move on to the fun stuff: refactoring.</p>
+
+<p>More tk.</p>
+
+    </section>
+    <footer>
+        <a class="permalink u-url" href="https://angelostavrow.com/post/tghr-opening-the-source/">⏳</a>
+        
+        <hr class="post-underline">
+        <p class="post-tag">Tags for this post: 
+        
+            <a href="https://angelostavrow.com/tags/tghr" class="post-tag">tghr</a>
+        
+        </p>
+        
+    </footer>
+</article>
+
+    </div>
+
+
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="prev">
+          
+          <a alt="Newer article" href="https://angelostavrow.com/post/tghr-testing-the-units/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          
+          <a alt="Older article" href="https://angelostavrow.com/post/the-great-honeyjar-refactoring/">Older &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    <div class="icon-24x24">
+      <a class="glyph" alt="Email me" href="mailto:contact@angelostavrow.com"><img src="/icons/envelope.svg" width="24px"></a>
+    </div>
+    <div class="icon-24x24">
+      <a class="glyph" alt="Flickr profile" href="https://flickr.com/people/astavrow"><img src="/icons/flickr.svg" width="24px"></a>
+    </div>
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/AngeloStavrow"><img src="/icons/github.svg" width="24px"></a>
+    </div>
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitLab profile" href="https://gitlab.com/AngeloStavrow"><img src="/icons/gitlab.svg" width="24px"></a>
+    </div>
+    <div class="icon-24x24">
+      <a class="glyph" alt="Glitch profile" href="https://glitch.com/@AngeloStavrow"><img src="/icons/glitch.svg" width="24px"></a>
+    </div>
+    <div class="icon-24x24">
+      <a class="glyph" alt="Micro.Blog profile" href="https://micro.blog/angelostavrow"><img src="/icons/microblog.svg" width="24px"></a>
+      </div>
+    <div class="icon-24x24 last">
+      <a class="glyph" alt="Twitter profile" href="https://twitter.com/AngeloStavrow"><img src="/icons/twitter.svg" width="24px"></a>
+      </div>
+  </div>
+</aside>
+
+      <p class="copyright">
+          &copy; 2018 Angelo Stavrow
+      </p>
+      <p class="h-card">
+        <img class="u-photo" src="https://angelostavrow.com//images/avatar.jpg" />
+        <a class="p-name u-url" href="Page%28%22Angelo%20Stavrow%22%29" rel="me">Angelo Stavrow</a>
+        <a class="u-email" href="mailto:contact@angelostavrow.com">contact@angelostavrow.com</a>, 
+        <span class="p-locality">Montreal</span>
+        <span class="p-country-name">Canada</span>
+      </p>
+    </div>
+
+
+</body>
+</html>

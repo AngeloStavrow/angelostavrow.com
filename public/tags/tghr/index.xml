@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tghr on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/tags/tghr/</link>
+    <description>Recent content in Tghr on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Fri, 03 Jun 2016 12:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/tags/tghr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TGHR: Testing the units</title>
+      <link>https://angelostavrow.com/post/tghr-testing-the-units/</link>
+      <pubDate>Fri, 03 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/tghr-testing-the-units/</guid>
+      <description>The Great HoneyJar Refactoring is a series of posts in which I take the first iOS app I ever wrote, HoneyJar, and refactor it out of its original burning-dumpster-fire state and into a modern app. And I&#39;m doing it in public. Earlier this week, I tweeted about my adventures in trying to add a test suite to HoneyJar.
+The idea is this: I want to be sure that I&amp;rsquo;m not breaking anything in the app, as it exists right now, when I start refactoring.</description>
+    </item>
+    
+    <item>
+      <title>TGHR: Opening the source</title>
+      <link>https://angelostavrow.com/post/tghr-opening-the-source/</link>
+      <pubDate>Sat, 28 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/tghr-opening-the-source/</guid>
+      <description>The Great HoneyJar Refactoring is a series of posts in which I take the first iOS app I ever wrote, HoneyJar, and refactor it out of its original burning-dumpster-fire state and into a modern app. And I&#39;m doing it in public. Last week I introduced an idea I had: to open-source my first-ever iOS app, embarrassing as it might be, and refactor it out in the open.
+Over the last week, I handled the open-sourcing of the app.</description>
+    </item>
+    
+    <item>
+      <title>The Great HoneyJar Refactoring</title>
+      <link>https://angelostavrow.com/post/the-great-honeyjar-refactoring/</link>
+      <pubDate>Fri, 20 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/the-great-honeyjar-refactoring/</guid>
+      <description>Thinking about a series of posts where I take HoneyJar, the first iOS app I wrote, and refactor it out of its burning-dumpster-fire state.
+&amp;mdash; Angelo Stavrow (@AngeloStavrow) May 16, 2016 
+Over the next few weeks, I&amp;rsquo;ve decided to write a series of posts about taking my first iOS app, HoneyJar, and refactoring it from its current (terrible) state into something, well, less-terrible.
+And I plan on doing it in public, too.</description>
+    </item>
+    
+  </channel>
+</rss>
