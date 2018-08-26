@@ -504,7 +504,9 @@ div.top > a:hover {
     padding: 0.1em 1em 1em 1em;
 }
 
-.microblog_text {}
+.microblog_text > p > img {
+    width: initial;
+}
 
 .microblog_time {
     background-color: #0d7b76;
