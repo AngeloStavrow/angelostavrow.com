@@ -15,12 +15,16 @@ title = "Angelo Stavrow"
 
   # Contact/social-network identifiers
   EmailAddress = "contact@angelostavrow.com"
+  FacebookUser = ""
   FlickrUser = "astavrow"
   GitHubUser = "AngeloStavrow"
   GitLabUser = "AngeloStavrow"
   GlitchUser = "AngeloStavrow"
-  TwitterUser = "AngeloStavrow"
+  KeybaseUser = "astavrow"
   MicroBlogUser = "angelostavrow"
+  StackOverflowUser = "1234545"
+  TumblrUser = ""
+  TwitterUser = "AngeloStavrow"
 
   # These are parameters used for indieweb identity. You should set these along
   # with the top-level email/social network parameters.
