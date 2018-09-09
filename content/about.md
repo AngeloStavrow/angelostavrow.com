@@ -5,7 +5,7 @@ menu: "main"
 draft: false
 ---
 
-This is my personal website and blog. If you'd like to know more about what I'm up to at the moment, check out my [now](/now) page. You can get in touch with me via [email](mailto:contact@angelostavrow.com).
+This is my personal website and blog. If you'd like to know more about what I'm up to at the moment, check out my [now](/now) page, or have a look at my [microblog](https://angelo.micro.blog). You can get in touch with me via [email](mailto:contact@angelostavrow.com).
 
 ## Philosophy
 This site includes a `philosphy.txt`. [Check it out](../philosophy.txt).

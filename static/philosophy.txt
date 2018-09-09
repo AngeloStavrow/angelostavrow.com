@@ -10,6 +10,6 @@ Should software or a website have a philosophy? Yes, if you want it to matter.
 - I believe in Publishing on your Own Site and Syndicating Elsewhere. (see: https://indieweb.org/POSSE)
 - I believe in RSS.
 - I believe in HTML and CSS.
-- I believe in JavaScript, so long as it serves the reader.
+- I believe in JavaScript that serves the reader.
 
 This site is built according to these beliefs.

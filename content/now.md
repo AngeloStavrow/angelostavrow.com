@@ -9,8 +9,9 @@ Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives 
 Right now I am…
 
 - Living in: Montreal, Canada. 🇨🇦
-- Part of the [Manuscript](https://manuscript.com) engineering team
+- Part of the [Manuscript](https://manuscript.com) engineering team at Fog Creek, overseeing its transition to DevFactory
+- "Looking for new opportunities" ([contact me here!](mailto:workwith@angelostavrow.com))
 - Building: This site's [Hugo](https://gohugo.io) theme — it's almost there!
-- Reading: _The Nordic Theory of Everything_, by Anu Partanen ([🔗 &rarr;](http://www.anupartanen.com/the-nordic-theory-of-everything/))
+- Reading: _The Pragmatic Programmer_, by A. Hunt and D. Thomas ([🔗 &rarr;](https://pragprog.com/book/tpp/the-pragmatic-programmer))
 
-_Last updated August 13<sup>th</sup>, 2018_
+_Last updated September 3<sup>rd</sup>, 2018_
