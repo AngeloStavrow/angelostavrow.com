@@ -11,7 +11,7 @@ Right now I am…
 - Living in: Montreal, Canada. 🇨🇦
 - Part of the [Manuscript](https://manuscript.com) engineering team at Fog Creek, overseeing its transition to DevFactory
 - "Looking for new opportunities" ([contact me here!](mailto:workwith@angelostavrow.com))
-- Building: This site's [Hugo](https://gohugo.io) theme — it's almost there!
+- Scratching my own itch: building a weather app [for Canadians](/post/how-about-that-heat/)
 - Reading: _The Pragmatic Programmer_, by A. Hunt and D. Thomas ([🔗 &rarr;](https://pragprog.com/book/tpp/the-pragmatic-programmer))
 
 _Last updated September 3<sup>rd</sup>, 2018_
