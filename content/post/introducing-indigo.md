@@ -9,7 +9,7 @@ Indigo is a lightweight theme for [Hugo][hugo] with [IndieWeb][indieweb] feature
 
 <!--more-->
 
-I've been working on this theme since August, when I relaunched this site as a blog using a pre-release version of the theme. I'm happy to say that it's finally ready for public release.
+I've been working on this theme since August, when I relaunched this site as a blog using a pre-release version of the theme. I'm happy to say that it's finally [ready for public release][github].
 
 !["Screenshot of indigo theme"](/images/2018-10-06/tn.png)
 
@@ -79,6 +79,7 @@ Indigo is distributed under the [MIT license][license], so feel free to fork the
 
 [hugo]: https://gohugo.io
 [indieweb]: https://indieweb.org/
+[github]: https://github.com/AngeloStavrow/indigo
 [indieauth]: https://indieauth.com
 [why]: https://indieweb.org/why
 [mf2]: http://microformats.org
