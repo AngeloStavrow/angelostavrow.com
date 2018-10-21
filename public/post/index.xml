@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/post/</link>
+    <description>Recent content in Posts on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2018, Angelo Stavrow</copyright>
+    <lastBuildDate>Sun, 21 Oct 2018 11:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts On Indigo, Two Weeks Later</title>
+      <link>https://angelostavrow.com/post/os-project-thoughts/</link>
+      <pubDate>Sun, 21 Oct 2018 11:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/os-project-thoughts/</guid>
+      <description>&lt;p&gt;While v1.0 of my first Hugo theme, Indigo, was &lt;a href=&#34;https://angelostavrow.com/post/introducing-indigo/&#34;&gt;released two weeks ago&lt;/a&gt;, it was only added to the &lt;a href=&#34;https://themes.gohugo.io/indigo/&#34;&gt;Hugo themes gallery&lt;/a&gt; (and &lt;a href=&#34;https://twitter.com/GoHugoIO/status/1051911902966763521&#34;&gt;tweeted about&lt;/a&gt; from the Hugo account) five days ago. Since then, I&amp;rsquo;ve learned a couple of things that I thought I&amp;rsquo;d share.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Indigo</title>
+      <link>https://angelostavrow.com/post/introducing-indigo/</link>
+      <pubDate>Sat, 06 Oct 2018 11:44:57 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/introducing-indigo/</guid>
+      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org/&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zeus</title>
+      <link>https://angelostavrow.com/post/zeus/</link>
+      <pubDate>Tue, 25 Sep 2018 14:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/zeus/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://angelostavrow.com/images/2018-09-25/zeus.jpg&#34; alt=&#34;&amp;quot;Zeus under the covers&amp;quot;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We lost our little buddy one year ago today.&lt;/p&gt;
+
+&lt;p&gt;He was the sweetest animal I&amp;rsquo;ve ever known. The thing I remember most about him: you barely had to say two words to him, and he&amp;rsquo;d start purring loudly, probably followed by him flopping onto his back for fluffy belly rubs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Feedback Loops</title>
+      <link>https://angelostavrow.com/post/feedback-loops/</link>
+      <pubDate>Tue, 18 Sep 2018 09:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/feedback-loops/</guid>
+      <description>&lt;p&gt;A feedback loop is system where the output is &lt;em&gt;fed back&lt;/em&gt; into the system as an input. They exist everywhere in nature, and they typically come in two flavours: positive feedback loops, which move things away from a state of equilibrium, and negative feedback loops, which work to preserve balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>On risk</title>
+      <link>https://angelostavrow.com/post/on-risk/</link>
+      <pubDate>Sat, 15 Sep 2018 11:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-risk/</guid>
+      <description>&lt;p&gt;Standing still is generally a safe bet. We don&amp;rsquo;t have to expend any energy, and we don&amp;rsquo;t have to concern ourselves much with the possible outcomes. We just stand there, and watch the world go by.&lt;/p&gt;
+
+&lt;p&gt;Making progress is a little different. Making progress is risky.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Every Day Carry</title>
+      <link>https://angelostavrow.com/post/every-day-carry/</link>
+      <pubDate>Sun, 02 Sep 2018 07:18:47 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/every-day-carry/</guid>
+      <description>Since mid-February, a notebook has become a big part of my productivity system. There&amp;rsquo;s something about putting pen to paper that&amp;rsquo;s inherently more satisfying to me than poking at keys to make characters appear on a screen. Over six months later, I&amp;rsquo;m still writing in it daily.
+I don&amp;rsquo;t carry my notebook with me everywhere, though. I carry very little with me, in fact: my phone, wallet, and my keys (and really, only the keys that I need).</description>
+    </item>
+    
+    <item>
+      <title>Glitch Project Name Lottery</title>
+      <link>https://angelostavrow.com/post/glitch-project-name-lottery/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/glitch-project-name-lottery/</guid>
+      <description>Glitch creates randomized project names when you remix a project, and they look something like adjective-noun.glitch.me. You can always rename these later, but oftentimes they’re just too amusing to bother (I’m looking at you, victorious-beer).
+So, what if you decided that you were going to remix the node starter app, and then had to spend a couple of hours building an app based purely on the random name you were assigned?</description>
+    </item>
+    
+    <item>
+      <title>And we&#39;re back</title>
+      <link>https://angelostavrow.com/post/and-were-back/</link>
+      <pubDate>Sun, 12 Aug 2018 15:30:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/and-were-back/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been almost four months since I last wrote something. I&amp;rsquo;ve been pretty busy over the last little while completely overhauling this site, and there are a few changes that I&amp;rsquo;d like to point out.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Messy Journeys and Scruffy Role Models</title>
+      <link>https://angelostavrow.com/post/messy-journeys-and-scruffy-role-models/</link>
+      <pubDate>Wed, 18 Apr 2018 08:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/messy-journeys-and-scruffy-role-models/</guid>
+      <description>Tell me if any of this sounds familiar:
+ Why am I having such a hard time with this? What&amp;rsquo;s wrong with me? Maybe I’m not smart enough to do this. People hired me to do this work, but I&amp;rsquo;m never going to figure this out. I&amp;rsquo;m a fraud.  There are at least a couple of common threads with these statements, but I think the most interesting one is that each of these statements is an implicit comparison that I&amp;rsquo;m making between myself and someone that&amp;rsquo;s, y&amp;rsquo;know, good at what they do.</description>
+    </item>
+    
+    <item>
+      <title>App Store Reviews in Manuscript</title>
+      <link>https://angelostavrow.com/post/app-store-reviews-in-manuscript/</link>
+      <pubDate>Tue, 13 Mar 2018 04:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/app-store-reviews-in-manuscript/</guid>
+      <description>I&amp;rsquo;ve got some iOS apps as side projects (they&amp;rsquo;re in dire need of updates, but that&amp;rsquo;s neither here nor there). To keep things organized, I use a Manuscript (née FogBugz) account that I opened six years ago for planning work and, more relevant to this post, to capture (almost) all customer feedback. There&amp;rsquo;s a custom mailbox set up with an email address in my business domain, to which customers can send questions and comments about the apps.</description>
+    </item>
+    
+    <item>
+      <title>Remote Work: Year One</title>
+      <link>https://angelostavrow.com/post/remote-work-year-one/</link>
+      <pubDate>Tue, 06 Mar 2018 05:00:00 -0500</pubDate>
+      
+      <guid>https://angelostavrow.com/post/remote-work-year-one/</guid>
+      <description>A couple of weeks ago, Julia Evans wrote a retrospective on what it’s been like working remotely that resonated with me, given that today is my one-year anniversary since taking a remote position. Since this is my first fully-remote job, taking some time to reflect on how things have gone seems like a good idea.
+Julia answered some great questions about working remotely, so I’ll do the same here.</description>
+    </item>
+    
+    <item>
+      <title>The Junk Drawer</title>
+      <link>https://angelostavrow.com/post/the-junk-drawer/</link>
+      <pubDate>Tue, 27 Feb 2018 08:00:00 -0500</pubDate>
+      
+      <guid>https://angelostavrow.com/post/the-junk-drawer/</guid>
+      <description>I&amp;rsquo;ve slowly been moving over to Things 3 for task management, but more than that, I&amp;rsquo;ve been re-thinking just how my system needs to be fleshed out so that it works best for me.
+As part of that move, I&amp;rsquo;ve been re-evaluating the way I think about capture. Typically, you&amp;rsquo;ve got an inbox, where you log all the incoming stuff in your life, and which you process periodically. That&amp;rsquo;s fine for the usual do-delegate-delete-defer type tasks, but if I want to use Things (or whatever task management system) to capture everything, I&amp;rsquo;ve found that I need a place for things that live somewhere between the inbox and a project.</description>
+    </item>
+    
+    <item>
+      <title>Spinning Plates</title>
+      <link>https://angelostavrow.com/post/spinning-plates/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://angelostavrow.com/post/spinning-plates/</guid>
+      <description>I mentioned the other day that I&amp;rsquo;m feeling a little bit discouraged with how January was going. While I started the year looking forward to taking on a list of goals, here we are, almost halfway into February, and I&amp;rsquo;m not really feeling like I&amp;rsquo;ve made real progress against any of them.
+I took some time to think about why this is the case, and a couple of things stand out.</description>
+    </item>
+    
+    <item>
+      <title>Twelve for 2018</title>
+      <link>https://angelostavrow.com/post/twelve-for-2018/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://angelostavrow.com/post/twelve-for-2018/</guid>
+      <description>Okay, so I&amp;rsquo;m a bit late to the party, but: rather than try to create a bunch of resolutions, I’ve decided that I’d prefer to take on twelve projects this year. Why twelve? Well, largely because it breaks down to one project per month (not that I intend these to be month-long projects, it just works out that way).
+In no particular order of importance, they are:
+ Learn a new language: My wife and I have been talking about doing this together.</description>
+    </item>
+    
+    <item>
+      <title>Hello, 2018</title>
+      <link>https://angelostavrow.com/post/hello-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 -0500</pubDate>
+      
+      <guid>https://angelostavrow.com/post/hello-2018/</guid>
+      <description>The last thing I wrote here was a retrospective on 2016, written one year and one day ago.
+That&amp;rsquo;s&amp;hellip; quite a while ago. You&amp;rsquo;d think I&amp;rsquo;d have written more, given how much happened this year. Off the top of my head:
+ I changed jobs, and am now working with the thoughtful geniuses at Fog Creek. I got pretty serious about personal fitness, making great progress, right up until&amp;hellip; &amp;hellip;I severed a tendon in my left pinky, which left me in a splint for most of the summer after surgery to reattach it (occupational and physical therapy are still ongoing, six months later) we lost our wonderful fluffy companion of 15 years  Aside from the fitness bit, none of these were events that I expected or planned for.</description>
+    </item>
+    
+    <item>
+      <title>Twenty-sixteen, reviewed</title>
+      <link>https://angelostavrow.com/post/2016-in-review/</link>
+      <pubDate>Sat, 31 Dec 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/2016-in-review/</guid>
+      <description>At the beginning of the year, I wrote down some goals for 2016. The year has come and gone, so it&amp;rsquo;s not a bad idea to have a bit of a look at how things went.
+ Review 1. Post something here every Friday I did pretty well at this for a while, up until late August. But as the year wore on it felt more and more that I was writing just for the sake of checking off a repeating to-do item, rather than writing a goal in and of itself.</description>
+    </item>
+    
+    <item>
+      <title>One decision</title>
+      <link>https://angelostavrow.com/post/one-decision/</link>
+      <pubDate>Mon, 26 Dec 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/one-decision/</guid>
+      <description>As I write this, I&amp;rsquo;m sitting at a Starbucks in a mall, two days before Christmas. I&amp;rsquo;m sipping a large black coffee distractedly, watching folks noodle on by, caught up in whatever last few errands they may need to run before hosting or visiting friends and family for the holidays.
+The mall&amp;rsquo;s background music is calm, barely-audible, and shoppers don&amp;rsquo;t seem particularly stressed out, or rushed, or frustrated.
+It&amp;rsquo;s possible that I&amp;rsquo;m projecting my mood on this scene, too.</description>
+    </item>
+    
+    <item>
+      <title>On criticism</title>
+      <link>https://angelostavrow.com/post/on-criticism/</link>
+      <pubDate>Fri, 07 Oct 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-criticism/</guid>
+      <description>I see a lot of digital ink spilled on how some particular thing is
+ broken taking a quality nose-dive stupid irrelevant &amp;amp;cet.  And it&amp;rsquo;s good to be critical. With a bit of healthy skepticism, we avoid the reality-distortion fields that turn rational-minded folks into zealots. Nothing is so perfect that it can&amp;rsquo;t be improved, and I get that this is the place that a lot of these thinkpieces come from.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Per</title>
+      <link>https://angelostavrow.com/post/per-schedule/</link>
+      <pubDate>Mon, 26 Sep 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/per-schedule/</guid>
+      <description>I haven&amp;rsquo;t posted here in a little while, thus breaking the streak that I was intending to maintain. I don&amp;rsquo;t feel too bad about this, because I&amp;rsquo;ve been working on other stuff in the meanwhile, but it&amp;rsquo;s nice to be writing again.
+Specifically, in light of the coming App Store purge, I&amp;rsquo;ve been working on a big update to Per. While I&amp;rsquo;m not especially concerned that Per, in its current form, is at risk of being culled, it has been a long time since it was updated.</description>
+    </item>
+    
+    <item>
+      <title>iPhone Unplugged</title>
+      <link>https://angelostavrow.com/post/iphone-unplugged/</link>
+      <pubDate>Tue, 06 Sep 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/iphone-unplugged/</guid>
+      <description>It&amp;rsquo;s widely expected that the next iPhone will be announced tomorrow during the scheduled Apple Event. For months now, the rumour mill has been telling us that the most controversial change Apply is making to its flagship product is the removal of the headphone jack.
+At this point, it seems like a certainty. The headphone jack in its current form has existed for decades, but Apple is notorious for advancing physical I/O past its status quo: witness the current MacBook with its single USB-C port, and recall the Lightning and 30-pin connectors on iOS devices, the adoption of Thunderbolt on current Macs, the even introduction of USB on the original iMac.</description>
+    </item>
+    
+    <item>
+      <title>Split iPhone</title>
+      <link>https://angelostavrow.com/post/split-iphone/</link>
+      <pubDate>Fri, 26 Aug 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/split-iphone/</guid>
+      <description>I noticed this earlier in the year, but my iPhone is coming apart at the seams near the volume buttons.
+At first, I figured I&amp;rsquo;d managed to bend the phone, but upon closer inspection, both the back of the case and the screen are bulging outward&amp;mdash;which is not the failure mode you&amp;rsquo;d expect for a bent phone.
+The gap at the seam is nearly 2mm, such that light from the screen leaks, but it&amp;rsquo;s nowhere near as bad as I&amp;rsquo;ve seen doing an image search.</description>
+    </item>
+    
+    <item>
+      <title>Light writing</title>
+      <link>https://angelostavrow.com/post/light-writing/</link>
+      <pubDate>Fri, 19 Aug 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/light-writing/</guid>
+      <description>Literally writing with light, or photography, as it&amp;rsquo;s more commonly known.
+I used to think that I loved photography. I think I still do, I just&amp;hellip; never really do it anymore. At one point I had a whole mess of expensive camera gear, with the fancy full-frame digital SLR and red-ring&amp;rsquo;d lenses. And the fast primes&amp;mdash;oh, I loved those. Studio strobes? Yup. Speedlights? Several. Fifty pounds of camera gear that stayed home because, I convinced myself, I couldn&amp;rsquo;t be arsed to carry fifty pounds of camera gear around with me.</description>
+    </item>
+    
+    <item>
+      <title>Swift, UnitTemperature, And Humidex</title>
+      <link>https://angelostavrow.com/post/swift-unittemperature-and-humidex/</link>
+      <pubDate>Fri, 12 Aug 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/swift-unittemperature-and-humidex/</guid>
+      <description>Last week, I wrote about weather apps that use the Dark Sky forecast API for weather data lacking the Canadian humidex.
+Those that do tend to be riddled with ads and all kinds of content that, well, I don&amp;rsquo;t care about. And naturally, I started thinking about how I use weather apps. All I really want from my is a couple of things:
+ Current conditions, including humidex/ windchill values; Forecast conditions with highs and lows for today and tomorrow, again including humidex and windchill; Probability of precipitation for the next hour, with alerts of impending rain.</description>
+    </item>
+    
+    <item>
+      <title>How about that heat?</title>
+      <link>https://angelostavrow.com/post/how-about-that-heat/</link>
+      <pubDate>Fri, 05 Aug 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/how-about-that-heat/</guid>
+      <description>In other news, I’m totally ready for this sweltering summer to be over.
+&amp;mdash; Angelo Stavrow (@AngeloStavrow) August 4, 2016 
+I don&amp;rsquo;t deal well with heat brought on by humidity. Which makes a Montreal summer pretty tough to deal with. Temperatures will routinely go over 30&amp;deg;C, but when combined with high humidity, it&amp;rsquo;ll feel even hotter.
+Like, three-showers-a-day-ain&amp;rsquo;t-enough hot. Grimy, unpleasant, swampy hot.
+And most weather apps out there don&amp;rsquo;t get it.</description>
+    </item>
+    
+    <item>
+      <title>The Give-A-💩 Manifesto</title>
+      <link>https://angelostavrow.com/post/give-a-smiling-poop-manifesto/</link>
+      <pubDate>Fri, 29 Jul 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/give-a-smiling-poop-manifesto/</guid>
+      <description>WHEREAS IT IS AGREED THAT
+ There exist THINGS which one MUST DO; and There exist THINGS which one WOULD ENJOY DOING; and The above-listed THINGS may be MUTUALLY EXCLUSIVE;  IT IS RESOLVED THAT
+ Where a THING is ENJOYED and MUST BE DONE, one shall REVEL for one can easily give a 💩 about it; and Where a THING is ENJOYED but whose execution is NOT REQUIRED, one shall strive to MAKE THE TIME for it, for it is good to do things one gives a 💩 about; and Where a THING is NOT ENJOYABLE but MUST BE DONE, one shall give a 💩 about executing the THING with CARE AND ATTENTION; and Where a THING is NOT ENJOYABLE and is NOT REQUIRED, one shall strive to ELIMINATE IT from the list of things one invites into their lives, for one should strive to fill their lives with things one gives a 💩 about.</description>
+    </item>
+    
+    <item>
+      <title>Wallet-based business cards</title>
+      <link>https://angelostavrow.com/post/wallet-based-business-cards/</link>
+      <pubDate>Fri, 22 Jul 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/wallet-based-business-cards/</guid>
+      <description>Fun little morning project. 📇📲
+(Barcode is blurred because I’m not quite done yet. 🙃) pic.twitter.com/4eXh5NdTCP
+&amp;mdash; Angelo Stavrow (@AngeloStavrow) May 14, 2016 
+A couple of months ago I played a little bit with PassKit and Wallet after finding this little tutorial on adding a business card to Passbook (now named Wallet).
+A Wallet pass is pretty easy to create&amp;mdash;just fill some metadata into a JSON file, create a Pass Type ID certificate in your Apple Developer account, and then run a signing utility.</description>
+    </item>
+    
+    <item>
+      <title>Using XCTAssertThrowsError in your Swift tests</title>
+      <link>https://angelostavrow.com/post/using-xctassertthrowserror-in-your-swift-tests/</link>
+      <pubDate>Fri, 15 Jul 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/using-xctassertthrowserror-in-your-swift-tests/</guid>
+      <description>There&amp;rsquo;s a new kid on the XCTest block, and its name is XCTAssertThrowsError.
+I haven&amp;rsquo;t been able to find much on its usage aside from its original discussion on the swift-evolution mailing list and a Stack Overflow question, so here&amp;rsquo;s a little bit of a discussion on how I&amp;rsquo;m using it in a new project of mine.
+Swift introduced some pretty neat error handling in 2.0, and Natasha the Robot provided a nice guide on how to throw an error in your code.</description>
+    </item>
+    
+    <item>
+      <title>Posting to Hugo on GitLab Pages from iOS</title>
+      <link>https://angelostavrow.com/post/posting-to-hugo-on-gitlab-pages-from-ios/</link>
+      <pubDate>Fri, 08 Jul 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/posting-to-hugo-on-gitlab-pages-from-ios/</guid>
+      <description>In moving this blog to a static site generator, one concern was whether I&amp;rsquo;d still be able to work on and/or publish a post from my phone. I tend to do a fair bit of mobile drafting while I&amp;rsquo;m in the subway or waiting in line, and will sometimes publish content when I&amp;rsquo;m away from my computer. YOLO.
+Requirements It&amp;rsquo;s a given&amp;mdash;since that&amp;rsquo;s how the site has been setup&amp;mdash;that you need a GitLab.</description>
+    </item>
+    
+    <item>
+      <title>A six-month update</title>
+      <link>https://angelostavrow.com/post/a-six-month-update/</link>
+      <pubDate>Fri, 01 Jul 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/a-six-month-update/</guid>
+      <description>As I mentioned last week, today is July 1st, which marks a convenient half-way point for the year. On New Year&amp;rsquo;s Day, I posted a short list of goals that I was hoping to make progress towards. Here&amp;rsquo;s how it all breaks down.
+1. Post something here every Friday. So far, so good. I haven&amp;rsquo;t missed a single week, which I&amp;rsquo;m pretty pleased with. I&amp;rsquo;ll grant that it hasn&amp;rsquo;t always (ever?</description>
+    </item>
+    
+    <item>
+      <title>Flux</title>
+      <link>https://angelostavrow.com/post/flux/</link>
+      <pubDate>Fri, 24 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/flux/</guid>
+      <description>Reminder: as of next week, the RSS feed for this site is moving! If you subscribe, please be sure to point your favourite reader to:
+http://makebeforebreak.com/index.xml
+ Next week is July the first. It&amp;rsquo;s Canada Day here, which means it&amp;rsquo;s a national holiday, but in Montreal, it&amp;rsquo;s also an unofficial moving day.
+So it&amp;rsquo;s a propos that this site will be moving over to its new digs on that same day.</description>
+    </item>
+    
+    <item>
+      <title>On moving to Hugo on GitLab Pages</title>
+      <link>https://angelostavrow.com/post/on-moving-to-hugo-on-gitlab-pages/</link>
+      <pubDate>Fri, 17 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-moving-to-hugo-on-gitlab-pages/</guid>
+      <description>This week, I took a hiatus from the refactoring fun I&amp;rsquo;ve undertaken to (finally) move the blog over to a static site generator.
+I&amp;rsquo;ve written before about my plans to move to Hugo, and that&amp;rsquo;s now complete. Since the beginning of the year, all posts have been written as Markdown files that I can easily grab and format with the necessary front matter. Before then, I hadn&amp;rsquo;t written very much, and in fact I&amp;rsquo;ve dropped a couple of old posts that I felt didn&amp;rsquo;t add to the site in any way.</description>
+    </item>
+    
+    <item>
+      <title>A moving update</title>
+      <link>https://angelostavrow.com/post/a-moving-update/</link>
+      <pubDate>Fri, 10 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/a-moving-update/</guid>
+      <description>I&amp;rsquo;m in the process of (finally) finalizing the move of this site to Hugo.
+No, for real.
+Most content is already in place. A few older posts need to be added, and some info pages are to be added. This is normal-priority.
+I&amp;rsquo;m using a slightly-modified built-in template to render the site. There a few more modifications to make, but this is low-priority.
+A commenting platform will be added. This is also normal-priority.</description>
+    </item>
+    
+    <item>
+      <title>TGHR: Testing the units</title>
+      <link>https://angelostavrow.com/post/tghr-testing-the-units/</link>
+      <pubDate>Fri, 03 Jun 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/tghr-testing-the-units/</guid>
+      <description>The Great HoneyJar Refactoring is a series of posts in which I take the first iOS app I ever wrote, HoneyJar, and refactor it out of its original burning-dumpster-fire state and into a modern app. And I&#39;m doing it in public. Earlier this week, I tweeted about my adventures in trying to add a test suite to HoneyJar.
+The idea is this: I want to be sure that I&amp;rsquo;m not breaking anything in the app, as it exists right now, when I start refactoring.</description>
+    </item>
+    
+    <item>
+      <title>TGHR: Opening the source</title>
+      <link>https://angelostavrow.com/post/tghr-opening-the-source/</link>
+      <pubDate>Sat, 28 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/tghr-opening-the-source/</guid>
+      <description>The Great HoneyJar Refactoring is a series of posts in which I take the first iOS app I ever wrote, HoneyJar, and refactor it out of its original burning-dumpster-fire state and into a modern app. And I&#39;m doing it in public. Last week I introduced an idea I had: to open-source my first-ever iOS app, embarrassing as it might be, and refactor it out in the open.
+Over the last week, I handled the open-sourcing of the app.</description>
+    </item>
+    
+    <item>
+      <title>The Great HoneyJar Refactoring</title>
+      <link>https://angelostavrow.com/post/the-great-honeyjar-refactoring/</link>
+      <pubDate>Fri, 20 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/the-great-honeyjar-refactoring/</guid>
+      <description>Thinking about a series of posts where I take HoneyJar, the first iOS app I wrote, and refactor it out of its burning-dumpster-fire state.
+&amp;mdash; Angelo Stavrow (@AngeloStavrow) May 16, 2016 
+Over the next few weeks, I&amp;rsquo;ve decided to write a series of posts about taking my first iOS app, HoneyJar, and refactoring it from its current (terrible) state into something, well, less-terrible.
+And I plan on doing it in public, too.</description>
+    </item>
+    
+    <item>
+      <title>On comments</title>
+      <link>https://angelostavrow.com/post/on-comments/</link>
+      <pubDate>Fri, 13 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-comments/</guid>
+      <description>I mentioned that keeping comments up-to-date with modifications in source code helps me with task-switching in a busy workplace.
+Of course, that doesn&amp;rsquo;t make a difference if you&amp;rsquo;re not commenting your code well.
+Therein lies the rub. I spent weeks on learning various sorting algorithms in my data structures and algorithms class, but I never really learned anything on the whys and wherefores of commenting.
+I&amp;rsquo;ve been taught that
+// This is an inline comment.</description>
+    </item>
+    
+    <item>
+      <title>On delays</title>
+      <link>https://angelostavrow.com/post/on-delays/</link>
+      <pubDate>Fri, 06 May 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-delays/</guid>
+      <description>I&amp;rsquo;ve discussed the transition over to a static-site generator before.
+Yes, I&amp;rsquo;m still planning on doing this.
+Yes, it&amp;rsquo;s been a long time coming.
+So I&amp;rsquo;m setting a deadline for myself: the next post on this blog will be with the new setup. It probably won&amp;rsquo;t have all the pieces in place re: design and other related-site plans, but I&amp;rsquo;ve got to start somewhere.
+More tk.</description>
+    </item>
+    
+    <item>
+      <title>On interruption-driven development</title>
+      <link>https://angelostavrow.com/post/on-interruption-driven-development/</link>
+      <pubDate>Fri, 29 Apr 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-interruption-driven-development/</guid>
+      <description>As the sole developer at work, I have to balance our “ask me anything, anytime” culture with a need for unbroken concentration on whatever code I&amp;rsquo;m writing.
+I&amp;rsquo;m generally fine with a door-always-open policy like this, because it makes communication fast and easy&amp;mdash;especially in a small team, where everyone wears several hats&amp;mdash;but as projects get closer to a deadline, it does tend to put a bit of strain on my ability to get things done.</description>
+    </item>
+    
+    <item>
+      <title>On streaks</title>
+      <link>https://angelostavrow.com/post/on-streaks/</link>
+      <pubDate>Fri, 22 Apr 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-streaks/</guid>
+      <description>This is the 17th post made to this blog since the beginning of 2016.
+That means that I&amp;rsquo;ve posted something every Friday since the start of the year.
+Yesterday, I suggested that I might not be posting anything today. I&amp;rsquo;ve been feeling a bit tired lately as deadlines loom for work projects, so personal side-projects tend to slip a bit.
+But, dammit, the idea of not breaking a streak—especially four months in—really does work as a motivator to keep things going.</description>
+    </item>
+    
+    <item>
+      <title>On getting there</title>
+      <link>https://angelostavrow.com/post/on-getting-there/</link>
+      <pubDate>Fri, 15 Apr 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-getting-there/</guid>
+      <description>A short post today, based on a realization I had earlier this week at CocoaHeads.
+Like many, I often suffer from impostor syndrome. It hits when I&amp;rsquo;m tackling something new that I thought built on previous knowledge, leaving me feeling a bit bewildered, and undermining my confidence in having mastered lesser matters.
+Usually, I take a walk and come back to the problem with a clearer head, and will work my way through it.</description>
+    </item>
+    
+    <item>
+      <title>On subscription software</title>
+      <link>https://angelostavrow.com/post/on-subscription-software/</link>
+      <pubDate>Fri, 08 Apr 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-subscription-software/</guid>
+      <description>On Tuesday of this week, Smile Software announced that their TextExpander software would be switching to a subscription model. As a longtime user and big fan of TextExpander, I have some thoughts on this change.
+Another bit of software that I&amp;rsquo;m a huge fan of, YNAB, made a similar switch at the end of 2015&amp;mdash;no more desktop apps sold with traditional licenses, but rather a new web app with a yearly subscription.</description>
+    </item>
+    
+    <item>
+      <title>On sweating the small stuff</title>
+      <link>https://angelostavrow.com/post/on-sweating-the-small-stuff/</link>
+      <pubDate>Fri, 01 Apr 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-sweating-the-small-stuff/</guid>
+      <description>When I hear ship it, or we&amp;rsquo;ll fix it in post&amp;rdquo;, I get that the intended sentiment is that perfect is the enemy of done. But too often, this translates to I&amp;rsquo;m okay with shipping garbage.
+There&amp;rsquo;s a delicate balance to be struck between doing it quickly vs. doing it well, sure, but if you&amp;rsquo;re having a hard time getting there, then maybe you&amp;rsquo;ve bitten off more than you can chew.</description>
+    </item>
+    
+    <item>
+      <title>On iterative learning</title>
+      <link>https://angelostavrow.com/post/on-iterative-learning/</link>
+      <pubDate>Fri, 25 Mar 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-iterative-learning/</guid>
+      <description>Earlier this week, I had a chance to talk out my approach to learning new things in the context of Cocoa development.
+I&amp;rsquo;ve always found that I learn best when I get to use it in anger, but when it comes to something as big and sprawling as the Cocoa framework, there&amp;rsquo;s a lot of stuff to learn.
+Given that I do the vast majority of my development solo, I&amp;rsquo;ve found that the best way to approach this is to break the framework down into manageable chunks, write a little project based around that chunk, and then ship it.</description>
+    </item>
+    
+    <item>
+      <title>On roadmaps for sitemaps</title>
+      <link>https://angelostavrow.com/post/on-roadmaps-for-sitemaps/</link>
+      <pubDate>Fri, 18 Mar 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-roadmaps-for-sitemaps/</guid>
+      <description>As I&amp;rsquo;ve mentioned before, I&amp;rsquo;m looking into re-working things a little bit for some of my &amp;ldquo;online presence&amp;rdquo;.
+Right now my personal site is just a static landing page. It&amp;rsquo;s generated by Hugo and links to other things (this blog, my Tumblr, GitLab/GitHub, Twitter, &amp;amp;cet.)—and I think it&amp;rsquo;s time to start consolidating some of that.
+This blog will be moving to a static-site generator soon, too (again, Hugo). The domain and all links will remain active, but I&amp;rsquo;d like it to also live under a /blog directory on my personal site.</description>
+    </item>
+    
+    <item>
+      <title>On writing for GitLab</title>
+      <link>https://angelostavrow.com/post/on-writing-for-gitlab/</link>
+      <pubDate>Fri, 11 Mar 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-writing-for-gitlab/</guid>
+      <description>Yesterday, an article I wrote on setting up GitLab CI for your iOS projects was posted on the GitLab blog.
+Now, I&amp;rsquo;m a relative newcomer to continuous integration, but I know that it&amp;rsquo;s valuable. And I also know that GitLab&amp;rsquo;s feature is free, regardless of whether your project is public or private.
+I also know that the best way to learn something is to show someone else how to do it—so I launched BBEdit and took notes as I worked my way through the setup, with the intention of posting something here about my experiences.</description>
+    </item>
+    
+    <item>
+      <title>On this week&#39;s hiatus</title>
+      <link>https://angelostavrow.com/post/on-this-weeks-hiatus/</link>
+      <pubDate>Fri, 04 Mar 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-this-weeks-hiatus/</guid>
+      <description>While I don&amp;rsquo;t have much to post here this week, I have been writing a technical article over the last couple of weeks. The final draft was submitted yesterday and, barring any unexpected changes or delays, it should be published next week.
+It&amp;rsquo;s been an interesting experience, and I intend on discussing it for next week&amp;rsquo;s instalment.
+Until then, I&amp;rsquo;m trying to post fun little items and interesting links to Break Before Make more often, so feel free check check that out.</description>
+    </item>
+    
+    <item>
+      <title>On methodologies</title>
+      <link>https://angelostavrow.com/post/on-methodologies/</link>
+      <pubDate>Fri, 26 Feb 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-methodologies/</guid>
+      <description>I&amp;rsquo;ve been thinking a bit about people and some popular techniques that they use to try to improve the quality of their lives.
+Specifically, I wonder if successful application of GTD, YNAB&amp;rsquo;s rules, or KonMari&amp;mdash;essentially, the curation of stuff (life, money, possessions)&amp;mdash;might be self-selecting.
+Curation is maybe a bit of a weak description. These are methodologies for the processing of inputs with the goal of (typically measurable) progress towards a desired state.</description>
+    </item>
+    
+    <item>
+      <title>On heroes and patient zeroes</title>
+      <link>https://angelostavrow.com/post/on-heroes-and-patient-zeroes/</link>
+      <pubDate>Fri, 19 Feb 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-heroes-and-patient-zeroes/</guid>
+      <description>I rarely get sick, and when I do, it seldom lasts more than 72 hours. Having just recently gotten over a nasty cold, however, I have a couple of thoughts on the matter of working through cold and flu season.
+Inevitably, there will always be someone who feels that they can&amp;rsquo;t, for whatever reason, afford to take a sick day. So they load up on decongestants, fight their way in to the office, where they basically fill a seat with their butt, a trashcan with their snotty tissues, and their workplace with their germs.</description>
+    </item>
+    
+    <item>
+      <title>On local personalities</title>
+      <link>https://angelostavrow.com/post/on-local-personalities/</link>
+      <pubDate>Wed, 10 Feb 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-local-personalities/</guid>
+      <description>The January 28th episode of Under The Radar, Apps With Personality, left me thinking about just why software from bigger software publishers tend to be more… well, bland.
+A lot of it surely comes down to the design-by-committee (or, in the worst case, design-by-accountants/lawyers) way of working that David and Marco alluded to, but I think there&amp;rsquo;s something else worth considering.
+Every business-school student has heard the (actually false) Chevy Nova &amp;ldquo;legend&amp;rdquo;, whereby GM execs scratched their heads in trying to figure out why sales of the car were so poor in Latin America.</description>
+    </item>
+    
+    <item>
+      <title>On reading lists</title>
+      <link>https://angelostavrow.com/post/on-reading-lists/</link>
+      <pubDate>Fri, 05 Feb 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-reading-lists/</guid>
+      <description>I&amp;rsquo;ve been thinking about adding a second kind of post to this site every week: a selection links that I found to be an interesting read during the week.
+More specifically, I&amp;rsquo;m thinking about maybe three to five links, with a few words of my own commentary. Those links might be to freshly-published items, or they may be an interesting article from an archive somewhere. I don&amp;rsquo;t really know.
+What I do know, is that I come across a lot of thought-provoking, inspiring, or fascinating pieces of writing, and I want a more permanent place to share them than the Twitter firehose, or the Facebook walled garden.</description>
+    </item>
+    
+    <item>
+      <title>On focus</title>
+      <link>https://angelostavrow.com/post/on-focus/</link>
+      <pubDate>Sun, 24 Jan 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-focus/</guid>
+      <description>I&amp;#39;ve been allowing myself to get too distracted by random projects. It&amp;#39;s time to cull that list and redouble my efforts on the key projects.
+&amp;mdash; Angelo Stavrow (@AngeloStavrow) January 23, 2016 
+Years ago, as part of an engineering internship prep course, I had to do a Myers-Briggs personality test. The results indicated that I&amp;rsquo;m an ENFP type.
+While the MBTI was proven to be mostly malarky, one thing that keeps coming up about ENFP types is that they have trouble with follow-through.</description>
+    </item>
+    
+    <item>
+      <title>On moving preparations</title>
+      <link>https://angelostavrow.com/post/on-moving-preparations/</link>
+      <pubDate>Thu, 21 Jan 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-moving-preparations/</guid>
+      <description>A short break from the usual posts for a bit of site news: by the end of February, I&amp;rsquo;m hoping to have completed the move of this site over to a static-site generator called Hugo.
+There are a few reasons for this.
+First, I&amp;rsquo;m ready to leave Squarespace. It&amp;rsquo;s not that there&amp;rsquo;s anything really wrong with their service. It&amp;rsquo;s pretty reliable, their customer service is great, and it&amp;rsquo;s generally pretty easy to use.</description>
+    </item>
+    
+    <item>
+      <title>On expectations</title>
+      <link>https://angelostavrow.com/post/on-expectations/</link>
+      <pubDate>Thu, 14 Jan 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-expectations/</guid>
+      <description>Two weeks ago, I wrote that I wanted to write more&amp;mdash;primarily by posting to the blog once a week, and by writing in a journal daily.
+So far, the journal has been a success. I haven&amp;rsquo;t missed a day, because it&amp;rsquo;s easy: I launch Day One on a device, and just write. I don&amp;rsquo;t limit myself to certain topics, I don&amp;rsquo;t use any tags, I don&amp;rsquo;t add photos, and I certainly don&amp;rsquo;t worry about length.</description>
+    </item>
+    
+    <item>
+      <title>On happiness</title>
+      <link>https://angelostavrow.com/post/on-happiness/</link>
+      <pubDate>Fri, 08 Jan 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-happiness/</guid>
+      <description>We&amp;rsquo;re now a week in to the new year. As I&amp;rsquo;ve mentioned before, I&amp;rsquo;m not really one for resolutions, but here&amp;rsquo;s something that&amp;rsquo;s been on my mind lately. A proposal, of sorts, in two parts.
+ Be the person that makes you happy. Be the person that makes other people happy.  Here&amp;rsquo;s the how and why of it, as I see it.
+   Part&amp;nbsp;1 Part&amp;nbsp;2 Situation     ❌ ❌ This is the worst-case scenario.</description>
+    </item>
+    
+    <item>
+      <title>On fresh starts</title>
+      <link>https://angelostavrow.com/post/on-fresh-starts/</link>
+      <pubDate>Fri, 01 Jan 2016 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-fresh-starts/</guid>
+      <description>A lot of people seem to think that New Year&amp;rsquo;s resolutions are a waste of time. While I agree that any day is a good day to make changes, I also know that I like things in neat and tidy little parcels, and a year is a very nice little short- to medium-term period of time for setting goals, and revisiting them to see how you did.
+I didn&amp;rsquo;t try anything like that for 2015.</description>
+    </item>
+    
+    <item>
+      <title>On automation</title>
+      <link>https://angelostavrow.com/post/on-automation/</link>
+      <pubDate>Thu, 17 Dec 2015 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/on-automation/</guid>
+      <description>I&amp;rsquo;m a firm believer in automation.
+Computers are great environments for this—scripting languages (and convenient utilities that leverage them, like Hazel, TextExpander, or If This Then That) make it trivial to organize, queue, and execute all kinds of tasks that otherwise time away from more enjoyable things.
+• • •
+Life can be a bit harder to automate. It can get expensive, too, because automating real-life tasks tends to require both hardware and software, working in concert, to manipulate the physical world.</description>
+    </item>
+    
+    <item>
+      <title>Festina lente</title>
+      <link>https://angelostavrow.com/post/festina-lente/</link>
+      <pubDate>Thu, 19 Jun 2014 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/festina-lente/</guid>
+      <description>&amp;ldquo;Make haste slowly.&amp;rdquo;
+ Or, if we forsake brevity for clarity: get it done quickly, but not so urgently that thoroughness is sacrificed for speed.
+Once committed to action, it is desirable to move swiftly, decisively; but to do so without having completed one&amp;rsquo;s due diligence1 is foolhardy at best, and dangerous at worst.
+ The hard part in all of this, of course, is know when the diligence is done and the planning can begin.</description>
+    </item>
+    
+    <item>
+      <title>Or, just strive to be the best</title>
+      <link>https://angelostavrow.com/post/or-just-strive-to-be-the-best/</link>
+      <pubDate>Fri, 02 May 2014 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/or-just-strive-to-be-the-best/</guid>
+      <description>&amp;ldquo;The only way to do great work is to love what you do.&amp;rdquo;
+ I&amp;rsquo;m not sure to whom the above quote is attributed, but I don&amp;rsquo;t buy it.
+The only way to do great work is to put in 100% of your attention and your effort, follow a thorough PDCA1 methodology, and understand that the quality of your work depends entirely on your will.
+I get that this quote is supposed to be an inspirational call to action, but thinking that you can only excel at things that you love is equal parts reductive and defeatist.</description>
+    </item>
+    
+    <item>
+      <title>Due dates, do dates, and die dates</title>
+      <link>https://angelostavrow.com/post/due-dates-do-dates-and-die-dates/</link>
+      <pubDate>Thu, 10 Apr 2014 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/due-dates-do-dates-and-die-dates/</guid>
+      <description>A calendar is, at its essence, just a list. But how effectively that list is used can transform your calendar from a mostly-neglected application to a finely-tuned productivity tool.
+The key to this transformation is the proper care and feeding of your calendar. It is a garbage-in-garbage-out system, so it&amp;rsquo;s crucial that we make sure that we only add items to our calendar that belong there.
+For GTD acolytes like myself, it feels like we rise and fall by the quality of our lists.</description>
+    </item>
+    
+    <item>
+      <title>Finishing moves</title>
+      <link>https://angelostavrow.com/post/finishing-moves/</link>
+      <pubDate>Tue, 08 Apr 2014 12:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/finishing-moves/</guid>
+      <description>Remember Mortal Combat?
+It was (and I guess still is) a fighting game whose claim to fame, when it was released in arcades back in the 90s, was the idea of a &amp;ldquo;finishing move&amp;rdquo;—if you beat your opponent, you had the opportunity to do a special attack, sending them off to meet their maker in a rather bloody fashion.
+While I don&amp;rsquo;t condone violence, the idea of a &amp;ldquo;finishing move&amp;rdquo; made me think a little bit about how I tend to deal with recurring tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

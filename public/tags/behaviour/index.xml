@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behaviour on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/tags/behaviour/</link>
+    <description>Recent content in Behaviour on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2018, Angelo Stavrow</copyright>
+    <lastBuildDate>Tue, 18 Sep 2018 09:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/tags/behaviour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feedback Loops</title>
+      <link>https://angelostavrow.com/post/feedback-loops/</link>
+      <pubDate>Tue, 18 Sep 2018 09:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/feedback-loops/</guid>
+      <description>&lt;p&gt;A feedback loop is system where the output is &lt;em&gt;fed back&lt;/em&gt; into the system as an input. They exist everywhere in nature, and they typically come in two flavours: positive feedback loops, which move things away from a state of equilibrium, and negative feedback loops, which work to preserve balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

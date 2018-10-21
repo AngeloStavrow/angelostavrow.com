@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Angelo Stavrow</title>
+    <link>https://angelostavrow.com/tags/projects/</link>
+    <description>Recent content in Projects on Angelo Stavrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2018, Angelo Stavrow</copyright>
+    <lastBuildDate>Sun, 21 Oct 2018 11:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://angelostavrow.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts On Indigo, Two Weeks Later</title>
+      <link>https://angelostavrow.com/post/os-project-thoughts/</link>
+      <pubDate>Sun, 21 Oct 2018 11:00:00 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/os-project-thoughts/</guid>
+      <description>&lt;p&gt;While v1.0 of my first Hugo theme, Indigo, was &lt;a href=&#34;https://angelostavrow.com/post/introducing-indigo/&#34;&gt;released two weeks ago&lt;/a&gt;, it was only added to the &lt;a href=&#34;https://themes.gohugo.io/indigo/&#34;&gt;Hugo themes gallery&lt;/a&gt; (and &lt;a href=&#34;https://twitter.com/GoHugoIO/status/1051911902966763521&#34;&gt;tweeted about&lt;/a&gt; from the Hugo account) five days ago. Since then, I&amp;rsquo;ve learned a couple of things that I thought I&amp;rsquo;d share.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Indigo</title>
+      <link>https://angelostavrow.com/post/introducing-indigo/</link>
+      <pubDate>Sat, 06 Oct 2018 11:44:57 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/introducing-indigo/</guid>
+      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org/&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Glitch Project Name Lottery</title>
+      <link>https://angelostavrow.com/post/glitch-project-name-lottery/</link>
+      <pubDate>Tue, 21 Aug 2018 05:45:07 -0400</pubDate>
+      
+      <guid>https://angelostavrow.com/post/glitch-project-name-lottery/</guid>
+      <description>Glitch creates randomized project names when you remix a project, and they look something like adjective-noun.glitch.me. You can always rename these later, but oftentimes they’re just too amusing to bother (I’m looking at you, victorious-beer).
+So, what if you decided that you were going to remix the node starter app, and then had to spend a couple of hours building an app based purely on the random name you were assigned?</description>
+    </item>
+    
+  </channel>
+</rss>
