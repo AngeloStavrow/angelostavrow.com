@@ -9,4 +9,4 @@ draft: false
 
 This content is typically syndicated to [Twitter](https://twitter.com/AngeloStavrow).
 
-<script type="text/javascript" src="https://micro.blog/sidebar.js?username=angelostavrow"></script>
+<script type="text/javascript" src="https://micro.blog/sidebar.js?username=angelostavrow&count=25"></script>
