@@ -1,54 +1,3 @@
-@import url(https://cdn.rawgit.com/AngeloStavrow/FiraCode/1.205/distr/fira_code.css);
-
-@font-face {
-    font-family: 'Charter';
-    src: url('/fonts/charter_regular-webfont.eot?') format('eot');
-    src: url('/fonts/charter_regular-webfont.woff') format('woff');
-    src: url('/fonts/charter_regular-webfont.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Charter';
-    src: url('/fonts/charter_bold-webfont.eot');
-    src: url('/fonts/charter_bold-webfont.woff') format('woff');
-    src: url('/fonts/charter_bold-webfont.ttf') format('truetype');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Charter';
-    src: url('/fonts/charter_italic-webfont.eot');
-    src: url('/fonts/charter_italic-webfont.woff') format('woff');
-    src: url('/fonts/charter_italic-webfont.ttf') format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Charter';
-    src: url('/fonts/charter_bold_italic-webfont.eot');
-    src: url('/fonts/charter_bold_italic-webfont.woff') format('woff');
-    src: url('/fonts/charter_bold_italic-webfont.ttf') format('truetype');
-    font-style: italic;
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-Book.eot');
-    src: url('/fonts/FiraSans-Book.woff2') format('woff2');
-    src: url('/fonts/FiraSans-Book.woff') format('woff');
-    src: url('/fonts/FiraSans-Book.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-Bold.eot');
-    src: url('/fonts/FiraSans-Bold.woff2') format('woff2');
-    src: url('/fonts/FiraSans-Bold.woff') format('woff');
-    src: url('/fonts/FiraSans-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
-
 * {
     box-sizing: border-box;
 }
@@ -92,6 +41,10 @@ body {
         border-top: 2px solid #0d7b76;
         padding-top: 2px;
     }
+
+    .card-content {
+        margin-left: 25px;
+    }
 }
 
 /* High-DPI mobile styles */
@@ -108,6 +61,10 @@ body {
     blockquote {
         font-size: x-large;
     }
+    
+    .card-content {
+        margin-left: 25px;
+    }
 }
 
 /* Low-DPI mobile styles */
@@ -123,6 +80,10 @@ body {
 
     blockquote {
         font-size: x-large;
+    }
+
+    .card-content {
+        margin-left: 0;
     }
 }
 
@@ -221,8 +182,30 @@ p.list-post-date {
     text-align: center;
 }
 
-p.h-card {
-    display: none;
+div.h-card {
+    box-shadow: 0 5px 5px #ccc;
+    margin: 100px auto;
+    min-height: 150px;
+    padding: 25px;
+    width: 90%
+}
+
+img.u-photo {
+    width: 100px;
+}
+
+.card-content {
+    display: inline-block;
+}
+
+.card-name {
+    margin: 0;
+}
+
+.card-subhead {
+    font-family: 'Fira Sans', Fallback, sans-serif;
+    font-size: smaller;
+    text-transform: uppercase;
 }
 
 blockquote {
@@ -238,7 +221,7 @@ blockquote {
 code {
     background-color: #eeffff;
     color: #0d7b76;
-    font-family: 'Fira Code';
+    font-family: 'Fira Code', Fallback, monospace;
     padding: 0.1em 0.2em 0.1em 0.2em;
 }
 
@@ -372,7 +355,7 @@ aside#social {
     border-top: 2px solid #3f3f3f;
     display: flex;
     height: 48px;
-    justify-content: flex-end;
+    margin: 0 auto;
     width: 100%;
 }
 
@@ -395,7 +378,7 @@ div#social-icons {
 
 nav#article-skip {
     align-items: flex-start;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #eeffff;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -425,8 +408,8 @@ nav#article-skip {
 }
 
 .top {
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
+    border-left: 1px solid #eeffff;
+    border-right: 1px solid #eeffff;
 }
 
 div.next > p,
@@ -456,7 +439,6 @@ div.top > a:hover {
 
 .microblog_post {
     background-color: #fcfcfc;
-    border-radius: 3px;
     box-shadow: 0 10px 25px 0 #e8e8e8;
     margin: 2.5em 0;
     padding: 0.1em 1em 1em 1em;
@@ -473,30 +455,5 @@ div.top > a:hover {
     font-family: 'Fira Sans';
     font-size: smaller;
     padding: 0 10px;
-    text-transform: uppercase;
-}
-
-/* For resume.md */
-
-#resume > div {
-    border: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
-
-#resume > div > h2 {
-    margin: 0;
-    padding: 0;
-}
-
-#resume > div > h3 {
-    margin: 0;
-    padding: 0;
-}
-
-.resume-date {
-    color: #0d7b76;
-    font-family: 'Fira Sans';
-    font-size: smaller;
     text-transform: uppercase;
 }

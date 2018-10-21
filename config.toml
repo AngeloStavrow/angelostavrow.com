@@ -1,33 +1,31 @@
-languageCode = "en-CA"
-theme = "indigo"
 baseURL = "https://angelostavrow.com/"
 title = "Angelo Stavrow"
+copyright = "Copyright © 2018, Angelo Stavrow"
+languageCode = "en-CA"
+theme = "indigo"
 
 [params]
-  AuthorName = "Angelo Stavrow"
-  Description = "Angelo Stavrow's website"
-  Subtitle = "A personal internet website."
-  Avatar = "/images/avatar.jpg"
+  Author = "Angelo Stavrow"
+  Description = "Angelo Stavrow's personal website"
+  Subtitle = "A personal internet website"
+  Avatar = "images/avatar.jpg"
+  Biography = "Tinkerer with a strong interest for development, of both the personal and software persuasion; easily defeated with spatulas. Equal measures enthusiasm and concern for tech's effect on the world. He/him."
+  ShowBio = true
   PermalinkText = "⏳"
 
-  # Copyright owner for display in the footer:
-  CopyrightOwner = "Angelo Stavrow"
-
-  # Contact/social-network identifiers
+  # Contact/social-network identifiers for social icons
   EmailAddress = "contact@angelostavrow.com"
-  FacebookUser = ""
   FlickrUser = "astavrow"
   GitHubUser = "AngeloStavrow"
   GitLabUser = "AngeloStavrow"
   GlitchUser = "AngeloStavrow"
   KeybaseUser = "astavrow"
   MicroBlogUser = "angelostavrow"
-  StackOverflowUser = "1234545"
-  TumblrUser = ""
+  StackOverflowUser = "1324545"
   TwitterUser = "AngeloStavrow"
 
   # These are parameters used for indieweb identity. You should set these along
-  # with the top-level email/social network parameters.
+  # with the above email/social network parameters.
   [params.indieWeb]  
     EmailAddress = "contact@angelostavrow.com"
     FlickrUser = "astavrow"
