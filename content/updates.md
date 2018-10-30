@@ -5,6 +5,8 @@ menu: "main"
 draft: false
 ---
 
+<!-- Load the microblog.css stylesheet in the body -->
+<link rel="stylesheet" href="/css/microblog.css">
 ## From [micro.blog](https://angelo.micro.blog/)
 
 This content is typically syndicated to [Twitter](https://twitter.com/AngeloStavrow).
