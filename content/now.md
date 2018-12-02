@@ -9,7 +9,9 @@ Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives 
 Right now I am…
 
 - Living in: Montreal, Canada. 🇨🇦
-- Working with the [Glitch](https://glitch.com) team on customer/developer experience
-- Scratching my own itch: building a weather app [for Canadians](/post/how-about-that-heat/)
+- Working with the [Glitch](https://glitch.com) team providing customer-success engineering services
+- Preparing to launch a podcast with [Frank Courville](https://ioscoachfrank.com/)
+- Taking stock of all my [spinning plates](https://angelostavrow.com/post/spinning-plates/)
+- Reading [_Atomic Habits_](https://jamesclear.com/atomic-habits) by James Clear
 
-_Last updated November 1<sup>st</sup>, 2018_
+_Last updated December 2<sup>nd</sup>, 2018_
