@@ -5,7 +5,7 @@ draft: false
 tags: ['review', 'progress']
 ---
 
-We're coming to the end of the year, a time when I can’t help but look back at how the year went and reflect on my wins, losses, and lessons learned. I set some [goals for 2018](/post/twelve-for-2018/) at the beginning of the year; I’m somehow not surprised that I failed to meet most of them.
+We're coming to the end of the year, a time when I can’t help but look back at how the year went and reflect on my wins, losses, and lessons learned.<!--more--> I set some [goals for 2018](/post/twelve-for-2018/) at the beginning of the year; I’m somehow not surprised that I failed to meet most of them.
 
 ## What went well?
 
