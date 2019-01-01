@@ -1,7 +1,7 @@
 ---
 title: "Hello, 2019"
 date: 2019-01-01T10:00:00-05:00
-draft: true
+draft: false
 tags: ["projects", "progress", "news", "omnifocus"]
 ---
 
