@@ -4,7 +4,7 @@ menu: "main"
 draft: false
 ---
 
-_Last updated February 5<sup>th</sup>, 2019_
+_Last updated February 18<sup>th</sup>, 2019_
 
 Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives you a little bit of information on what I'm up to these days.
 
@@ -12,7 +12,7 @@ Right now I am…
 
 - Living in: Montreal, Canada. 🇨🇦
 - Working with the [Glitch](https://glitch.com) team providing customer-success engineering services
-- Preparing to launch a podcast with [Frank Courville](https://ioscoachfrank.com/)
+- [Publishing a podcast](https://www.makebeforebreak.com) with [Frank Courville](https://ioscoachfrank.com/)
 - Reading [_Grit_](https://angeladuckworth.com/grit-book/) by Angela Duckworth
 - Working through Wes Bos' [React For Beginners](https://reactforbeginners.com/) course
 - Working through Joceyln K. Glei's [Reset course](https://reset-course.com/)
