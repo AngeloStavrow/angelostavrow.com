@@ -2,6 +2,7 @@
 title: "Remote Work: Year One"
 date: 2018-03-06T05:00:00-05:00
 draft: false
+tags: [ work, glitch ]
 ---
 
 A couple of weeks ago, Julia Evans [wrote a retrospective][jvns] on what it’s been like working remotely that resonated with me, given that today is my one-year anniversary since taking a remote position. Since this is my first fully-remote job, taking some time to reflect on how things have gone seems like a good idea.
