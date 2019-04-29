@@ -32,4 +32,6 @@ For those authors, I created a Glitch app that recreates the experience for you 
 
 The content in the chat above is directly from Ash’s post, but you can [remix the app](https://glitch.com/edit/#!/remix/embedded-chat) and create your own conversation script by modifying `chatScript` in **script.js**, then embed it in your own website (or wherever). To remix it, just click on the button below:
 
+<a href="https://glitch.com/edit/#!/remix/embedded-chat"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch" style="height: 40px; width: 163px" /></a>
+
 I’m also starting to curate a collection of Glitch apps like this, that act like a drop-in solution for augmenting blog posts in fun and useful ways. It’s a collection of just this one project at the time of writing, but you can find it [here](https://glitch.com/@AngeloStavrow/augmented-blogality) — and if you have any suggestions, let me know!
