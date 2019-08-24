@@ -1,6 +1,6 @@
 ---
 title: "Improving Hugo theme workflows coming"
-date: 2019-08-24T010:55:00-04:00
+date: 2019-08-24T008:00:00-04:00
 draft: false
 tags: ["indigo", "projects"]
 ---
