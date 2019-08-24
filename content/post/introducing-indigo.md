@@ -75,7 +75,7 @@ And code snippets look great with Fira Code:
 
 ## Contributions welcome
 
-Indigo is distributed under the [MIT license][license], so feel free to fork the repository and make it your own! If you've got ideas on how to improve the theme, let me know by [opening an issue in GitHub](issue) — but please be sure to review the documentation on [contributing][contributing].
+Indigo is distributed under the [MIT license][license], so feel free to fork the repository and make it your own! If you've got ideas on how to improve the theme, let me know by [opening an issue in GitHub][issue] — but please be sure to review the documentation on [contributing][contributing].
 
 [hugo]: https://gohugo.io
 [indieweb]: https://indieweb.org/
