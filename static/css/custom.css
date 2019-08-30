@@ -1,0 +1,175 @@
+/* ========================================================================== */
+/* =                             CUSTOM PALETTE                             = */
+/* ========================================================================== */
+
+:root {
+    --color-background: #f8f8f8;
+    --color-shadow: #ccc;
+    --color-text: #3f3f3f;
+    --color-main-dark: #0d7b76;
+    --color-main-light: #33aaaa;
+    --color-main-lighter: #66cccc;
+    --color-main-lightest: #eeffff;
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
+
+@media only screen and (min-width: 768px) {
+    .icon-24x24:hover {
+        background-color: var(--color-background);
+        border-top: 2px solid var(--color-main-dark);
+    }
+}
+
+.glyph:hover {
+    background-color: var(--color-background);
+}
+
+a {
+    color: var(--color-main-dark);
+}
+
+a:visited {
+    color: var(--color-main-light);
+}
+
+a:hover {
+    background-color: var(--color-main-dark);
+    color: var(--color-background);
+}
+
+h1.post-title {
+    border-top: 2px solid var(--color-text);
+}
+
+h2.list-title > a {
+    color: var(--color-main-dark);
+}
+
+h2.list-title > a:visited {
+    color: var(--color-main-light);
+}
+
+h2.list-title > a:hover {
+    background-color: var(--color-background);
+    color: var(--color-main-lighter);
+}
+
+p.post-date {
+    background-color: var(--color-main-dark);
+    color: var(--color-background);
+}
+
+a.p-author {
+    color: var(--color-background);
+}
+
+div.h-card {
+    box-shadow: 0 5px 5px var(--color-shadow);
+}
+
+blockquote {
+    color: var(--color-main-dark);
+    background-color: var(--color-background);
+    border-left: 25px solid var(--color-main-dark);
+}
+
+code {
+    background-color: var(--color-background);
+    color: var(--color-main-dark);
+}
+
+pre {
+    background-color: var(--color-background);
+    border: 1px solid var(--color-shadow);
+}
+
+hr.post-underline {
+    border-top: 1px solid var(--color-shadow);
+}
+
+a.post-tag {
+    background-color: var(--color-main-lightest);
+    border: 1px solid var(--color-main-lighter);
+    color: var(--color-main-light);
+}
+
+a.post-tag:hover {
+    background-color: var(--color-main-lighter);
+    color: var(--color-background);
+}
+
+div#site-header {
+    border-top: 5px solid var(--color-text);
+    border-bottom: 2px solid var(--color-text);
+}
+
+div.page-nav-item > a {
+    color: var(--color-main-dark);
+}
+
+div.page-nav-item > a:hover {
+    background-color: var(--color-main-dark);
+    color: var(--color-background);
+}
+
+div.pagination-item:hover {
+    background-color: var(--color-main-dark);
+}
+
+div.pagination-item > a {
+    color: var(--color-main-dark);
+}
+
+aside#social {
+    border-top: 2px solid var(--color-text);
+}
+
+nav#article-skip {
+    border-top: 1px solid var(--color-background);
+}
+
+.top {
+    border-left: 1px solid var(--color-background);
+    border-right: 1px solid var(--color-background);
+}
+
+div.next > a,
+div.prev > a,
+div.top > a {
+    color: var(--color-main-dark);
+}
+
+div.next > a:hover,
+div.prev > a:hover,
+div.top > a:hover {
+    background-color: var(--color-main-dark);
+    color: var(--color-background);
+}
+
+/* Micro.blog styling for Updates page */
+.microblog_timeline {}
+
+.microblog_post {
+    background-color: var(--color-background);
+    box-shadow: 0 10px 25px 0 var(--color-shadow);
+    margin: 2.5em 0;
+    padding: 0.1em 1em 1em 1em;
+}
+
+.microblog_text > p > img {
+    width: initial;
+}
+
+.microblog_time {
+    background-color: var(--color-main-dark);
+    color: var(--color-background);
+    float: right;
+    font-family: 'Fira Sans';
+    font-size: smaller;
+    padding: 0 10px;
+    text-transform: uppercase;
+}
