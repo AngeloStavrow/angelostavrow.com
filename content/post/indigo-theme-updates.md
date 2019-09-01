@@ -51,7 +51,7 @@ In the meanwhile, this site now runs off of the `development` branch of the Indi
 [Updates]: /updates
 [Micro.blog]: https://micro.blog
 [breaking changes]: https://github.com/gohugoio/hugoThemes/issues/678
-[v1.2.0]: https://github.com/AngeloStavrow/indigo/blob/v1.1.0/CHANGELOG.md#120
+[v1.2.0]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#120
 [import custom CSS]: https://changemap.co/indigo-team/indigo-theme-for-hugo/task/3462-import-custom-css/
 [mine]: https://github.com/AngeloStavrow/angelostavrow.com/blob/master/static/css/custom.css
 [Hugo Pipes]: https://gohugo.io/hugo-pipes/
