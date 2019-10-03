@@ -156,6 +156,16 @@ div.top > a:hover {
   color: var(--color-background);
 }
 
+/* Site-specific styling */
+
+p.caption {
+  font-family: "Fira Sans";
+  font-size: medium;
+  font-weight: 600;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
 /* Micro.blog styling for Updates page */
 .microblog_timeline {
 }
