@@ -4,6 +4,10 @@ copyright = "Copyright © 2018, Angelo Stavrow"
 languageCode = "en-CA"
 theme = "indigo"
 
+# We use true Markdown as a subset of HTML so this is necessary to enable iframes and scripts.
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   Author = "Angelo Stavrow"
   Description = "Angelo Stavrow's personal website"
