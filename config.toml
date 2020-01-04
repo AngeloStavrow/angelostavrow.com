@@ -12,7 +12,7 @@ theme = "indigo"
   Biography = "Tinkerer with a strong interest for development, of both the personal and software persuasion; easily defeated with spatulas. Equal measures enthusiasm and concern for tech's effect on the world. He/him."
   ShowBio = true
   PermalinkText = "⏳"
-  mainSections = ["post"]
+  mainSections = ["post", "update"]
 
   # Contact/social-network identifiers for social icons
   EmailAddress = "contact@angelostavrow.com"
@@ -23,7 +23,7 @@ theme = "indigo"
   KeybaseUser = "astavrow"
   LinkedInUser = "astavrow"
   MicroBlogUser = "angelostavrow"
-  StackOverflowUser = "1324545"
+  StackOverflowUser = "1234545"
   TwitterUser = "AngeloStavrow"
 
   # These are parameters used for indieweb identity. You should set these along
