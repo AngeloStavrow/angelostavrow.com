@@ -28,7 +28,7 @@ static func ==(lhs: Self, rhs: Self) -> Bool {
 
 We can't just leave it at that, though, because of Per's built-in unit conversion — you can input one product's quantity in pounds and another product's quantity in grams, and Per will figure out the best-value option automatically. This means that Per's `Product` model needs to understand how units compare; you can't compare the price per unit between one thing sold by the kilogram, and something else sold by the quart.
 
-The `Product` model stores units as an optional `Unit`, and we're going to create the initializer such that it'll set that property as either some flavour of `UnitMass` (for items sold by weight) or `UnitVolume` (for items sold by volume), or otherwise `nil` (for dimensionless units). Yesterday, I created an ugly nested-conditional mess for figuring out whether `lhs.units` and `rhs.units` can be compared. It works, but it feels like a code smell:
+The `Product` model stores units as an optional `Unit`, and we're going to create the initializer such that it'll set that property as either some flavour of `UnitMass` (for items sold by weight) or `UnitVolume` (for items sold by volume), or otherwise `nil` (for dimensionless units). I started with an ugly nested-conditional mess for figuring out whether `lhs.units` and `rhs.units` can be compared. It works, but it feels like a code smell:
 
 ```
 static func <(lhs: Self, rhs: Self) -> Bool {
@@ -79,4 +79,6 @@ static func ==(lhs: Self, rhs: self) -> Bool {
 
 That feels _much_ cleaner. Tomorrow, let's explore how that initializer reasons about unit types!
 
+[Per]: https://droppedbits.com/apps/per
+[here]: /tags/per-rewrite-diary/
 [yesterday]: /post/per-diaries-day-2
