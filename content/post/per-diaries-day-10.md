@@ -2,7 +2,7 @@
 title: "The Per Rewrite Diary: Day 10"
 date: 2020-02-10T08:15:00-05:00
 draft: false
-summary: A series on the long-overdue rewrite of my iOS app Per. Today, we're adding auto-sorting to our product list.
+summary: A series on the long-overdue rewrite of my iOS app Per. Today, we're doing a little planning for the coming week.
 tags: ["per", "per rewrite diary", "ios"]
 ---
 
@@ -38,4 +38,4 @@ More to come tomorrow!
 
 [Per]: https://droppedbits.com/apps/per
 [here]: /tags/per-rewrite-diary/
-[yesterday]: /post/per-diaries-day-10/
+[yesterday]: /post/per-diaries-day-9/
