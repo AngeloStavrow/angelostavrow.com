@@ -2,7 +2,7 @@
 title: "The Per Rewrite Diary: Day 11"
 date: 2020-02-11T17:30:00-05:00
 draft: false
-summary: A series on the long-overdue rewrite of my iOS app Per. Today, we're doing a little planning for the coming week.
+summary: A series on the long-overdue rewrite of my iOS app Per. Today, I'm short on time, so just a little clear-list feature is being added.
 tags: ["per", "per rewrite diary", "ios"]
 ---
 
