@@ -4,6 +4,8 @@ date: 2020-02-12T07:45:00-05:00
 draft: false
 summary: A series on the long-overdue rewrite of my iOS app Per. Today, I start planning my work on the product detail views.
 tags: ["per", "per rewrite diary", "ios"]
+aliases: ["/post/per-diary-day-12/"]
+
 ---
 
 > This post is part of a series about rewriting my iOS app, [Per]. Per is a price per unit comparison app with a bunch of neat convenience figures, but it hasn't been updated in years, so I'm rewriting it from scratch to eliminate a bunch of technical debt. Just because it's not an open-source app doesn't mean I can't share what I learn as I go!
