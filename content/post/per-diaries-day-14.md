@@ -2,7 +2,7 @@
 title: "The Per Rewrite Diary: Day 14"
 date: 2020-02-14T08:30:00-05:00
 draft: false
-summary: A series on the long-overdue rewrite of my iOS app Per. Today, I start work on laying out the product detail view.
+summary: A series on the long-overdue rewrite of my iOS app Per. Today, I continue work on laying out the product detail view.
 tags: ["per", "per rewrite diary", "ios"]
 
 ---
