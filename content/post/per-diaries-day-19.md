@@ -10,7 +10,6 @@ tags: ["per", "per rewrite diary", "ios"]
 > This post is part of a series about rewriting my iOS app, [Per]. Per is a price per unit comparison app with a bunch of neat convenience figures, but it hasn't been updated in years, so I'm rewriting it from scratch to eliminate a bunch of technical debt. Just because it's not an open-source app doesn't mean I can't share what I learn as I go!
 > 
 > See the rest of the series [here].
----
 
 ## Whoopsie
 
