@@ -2,7 +2,7 @@
 title: "The Per Rewrite Diaries: Day 21"
 date: 2020-02-21T09:00:00-05:00
 draft: false
-summary: A series on the long-overdue rewrite of my iOS app Per. Today, I prepare a list of papercuts.
+summary: A series on the long-overdue rewrite of my iOS app Per. Today, I refactor some UI code out of viewDidLoad().
 tags: ["per", "per rewrite diary", "ios"]
 
 ---
