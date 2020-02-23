@@ -1,7 +1,7 @@
 ---
 title: "The Per Rewrite Diaries: Day 23"
 date: 2020-02-23T17:45:00-05:00
-draft: true
+draft: false
 summary: A series on the long-overdue rewrite of my iOS app Per. Today, I start work on a custom table view cell.
 tags: ["per", "per rewrite diary", "ios"]
 
