@@ -1,5 +1,5 @@
 ---
-title: "Per Diaries Day 25"
+title: "The Per Rewrite Diaries: Day 25"
 date: 2020-02-25T07:30:00-05:00
 draft: false
 summary: A series on the long-overdue rewrite of my iOS app Per. Today, I wrap up work on a custom table view cell.
