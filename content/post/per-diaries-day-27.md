@@ -11,7 +11,7 @@ tags: ["per", "per rewrite diary", "ios"]
 > 
 > See the rest of the series [here](/tags/per-rewrite-diary/).
 
-## 
+## Slow down and sleep
 
 To test what unit type (if any) the list should be limited to, I changed the private `_unitType` property in the `ProductList` to
 
