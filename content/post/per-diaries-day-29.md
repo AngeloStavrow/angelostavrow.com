@@ -1,6 +1,6 @@
 ---
 title: "The Per Rewrite Diaries: Day 29"
-date: 2020-02-29T09:19:17-05:00
+date: 2020-02-29T19:30:00-05:00
 draft: false
 summary: A series on the long-overdue rewrite of my iOS app Per. Today, I continue work on the automatic unit conversion feature's UI.
 tags: ["per", "per rewrite diary", "ios"]
