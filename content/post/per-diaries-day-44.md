@@ -1,6 +1,6 @@
 ---
 title: "The Per Rewrite Diaries: Day 44"
-date: 2020-03-15T18:15:00-04:00
+date: 2020-03-15T16:15:00-04:00
 draft: false
 summary: A series on the long-overdue rewrite of my iOS app Per. Today, I wrap up the calculator feature.
 tags: ["per", "per rewrite diary", "ios"]
