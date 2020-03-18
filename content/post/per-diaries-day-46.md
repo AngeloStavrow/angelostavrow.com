@@ -2,7 +2,7 @@
 title: "The Per Rewrite Diaries: Day 46"
 date: 2020-03-17T06:30:00-04:00
 draft: false
-summary: A series on the long-overdue rewrite of my iOS app Per. Today, I gestart working on some input view oddities.
+summary: A series on the long-overdue rewrite of my iOS app Per. Today, I start working on some input view oddities.
 tags: ["per", "per rewrite diary", "ios"]
 
 ---
