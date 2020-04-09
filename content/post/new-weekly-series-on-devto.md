@@ -1,7 +1,7 @@
 ---
 title: "New Weekly Series on Dev.to"
 date: 2020-04-09T17:07:37-04:00
-draft: true
+draft: false
 summary: I kicked off a new weekly "development diary" series on Dev.to today.
 tags: ["glitch", "devto", "elsewhere"]
 ---
