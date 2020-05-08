@@ -11,6 +11,6 @@ Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives 
 ## Right now I am…
 
 - Living in: Montreal, Canada. 🇨🇦
-- Working with the [Glitch](https://glitch.com) team, providing solutions engineering services
-- Re-writing one of my [iOS apps](https://droppedbits.com/apps/per) from scratch [and live-journaling the process](/tags/per-rewrite-diary/)
+- Working with the [Glitch](https://glitch.com) team, providing community engineering services
+- Re-writing one of my [iOS apps](https://droppedbits.com/apps/per) from scratch ([I live-journaled the first 50 days](/tags/per-rewrite-diary/))
 - [Publishing a podcast](https://www.makebeforebreak.com) with [Frank Courville](https://ioscoachfrank.com/)
