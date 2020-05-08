@@ -4,7 +4,7 @@ menu: "main"
 draft: false
 ---
 
-_Last updated September 17<sup>th</sup>, 2019_
+_Last updated May 8<sup>th</sup>, 2020_
 
 Inspired by Derek Sivers' [now](https://sivers.org/nowff) page, this page gives you a little bit of information on what I'm up to these days.
 
