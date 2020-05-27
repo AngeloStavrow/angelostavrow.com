@@ -166,6 +166,20 @@ p.caption {
   text-align: center;
 }
 
+@media screen and (min-width: 48rem) {
+  .multicol-2 {
+    column-count: 2;
+  }
+
+  .multicol-3 {
+    column-count: 3;
+  }
+
+  .col {
+    margin-top: unset;
+  }
+}
+
 /* Micro.blog styling for Updates page */
 .microblog_timeline {
 }
