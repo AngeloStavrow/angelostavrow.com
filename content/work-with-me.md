@@ -3,7 +3,7 @@ title: "Work With Me"
 draft: false
 ---
 
-<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have some availability for June 2020.</strong></p>
+<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have some availability for July 2020.</strong></p>
 
 ## About Me
 
