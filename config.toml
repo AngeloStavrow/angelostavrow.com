@@ -17,14 +17,13 @@ theme = "indigo"
   ShowBio = true
   PermalinkText = "⏳"
   mainSections = ["post", "update"]
+  paymentPointer = "$pay.stronghold.co/1a14ae3172cd9ad4482a8de42fbdb90f7ac"
 
   # Contact/social-network identifiers for social icons
   EmailAddress = "contact@angelostavrow.com"
   FlickrUser = "astavrow"
   GitHubUser = "AngeloStavrow"
-  GitLabUser = "AngeloStavrow"
   GlitchUser = "AngeloStavrow"
-  KeybaseUser = "astavrow"
   LinkedInUser = "astavrow"
   MicroBlogUser = "angelostavrow"
   StackOverflowUser = "1234545"
