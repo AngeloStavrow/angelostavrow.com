@@ -28,7 +28,7 @@ Right now, it's an alpha/developer-preview release. There's a lot of room for im
 
 As I mention in [this forum topic] and my [Write.as post], the design for the `WriteFreelyClient` is to leverage completion blocks that return a `Result` tuple with either a `User`, `Post`, or `Collection` (or an array of these types where that makes sense), or an `Error` on failure. That makes it pretty easy to build completion handlers:
 
-```
+```swift
 func loginHandler(result: (Result<User, Error>)) {
     do {
         let user = try result.get()

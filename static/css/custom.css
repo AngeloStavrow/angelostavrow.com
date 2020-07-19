@@ -77,10 +77,6 @@ blockquote {
   border-left: 25px solid var(--color-main-dark);
 }
 
-code {
-  color: var(--color-main-lightest);
-}
-
 pre {
   background-color: var(--color-text);
   border: 1px solid var(--color-shadow);
