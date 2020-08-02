@@ -6,6 +6,8 @@ summary: "Social learning as a (community) service: I've been wanting to learn m
 tags: ["projects", "swift", "netnewswire"]
 ---
 
+_**UPDATED:** I opened my [original PR] against the wrong branch, so I've fixed the links here to point to the new PR._
+
 I've been wanting to learn more about building macOS apps. SwiftUI multiplatform apps are a great way forward in building something quickly, but you'll often still need to drop into AppKit and UIKit to solve things that SwiftUI just doesn't address (yet). So, for someone that's got some experience building iOS apps, what's a good way to learn?
 
 I _could_ just build a bunch of toy projects on my own. I read through [Hacking with macOS] which taught me a tonne. But for myself, the best learning is [social learning] — by observing and interacting with others.
@@ -26,12 +28,13 @@ And so, I opened my [first pull request] this morning. In service of [showing me
 
 I'm looking forward to the team's feedback on my proposed changes, and I'm looking forward to contributing more to the project!
 
+[original PR]: https://github.com/Ranchero-Software/NetNewsWire/pull/2314
 [Hacking with macOS]: https://www.hackingwithswift.com/store/hacking-with-macos
 [social learning]: https://en.m.wikipedia.org/wiki/Social_learning_theory
 [Slack group]: https://netnewswire.slack.com/
 [NetNewsWire]: https://ranchero.com/netnewswire/
 [first issue]: https://github.com/Ranchero-Software/NetNewsWire/issues/2058
 [Brent Simmons]: https://inessential.com/
-[first pull request]: https://github.com/Ranchero-Software/NetNewsWire/pull/2314
+[first pull request]: https://github.com/Ranchero-Software/NetNewsWire/pull/2315
 [showing messy work]: https://angelostavrow.com/post/messy-journeys-and-scruffy-role-models/
-[comments I removed]: https://github.com/Ranchero-Software/NetNewsWire/pull/2314/commits/3761ea352e0e508bba109819983463d52fd1398b
+[comments I removed]: https://github.com/Ranchero-Software/NetNewsWire/pull/2315/commits/619ddc6ea2aa16647b6bd5c7b6355ff31bb7e347
