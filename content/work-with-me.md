@@ -3,7 +3,7 @@ title: "Work With Me"
 draft: false
 ---
 
-<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have some availability for July 2020.</strong></p>
+<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have some availability for September 2020.</strong></p>
 
 ## About Me
 
@@ -14,9 +14,9 @@ I'm a software generalist with over a decade of experience writing code. My trai
 ## Services Offered
 
 <ul class="multicol-2">
-  <li>Full-Stack Web Development</li>
   <li>iOS Development</li>
   <li>macOS Development</li>
+  <li>Full-Stack Web Development</li>
   <li>Internet Of Things (IoT) Development</li>
   <li>Support Engineering</li>
   <li>Solutions Engineering</li>
@@ -29,11 +29,11 @@ I'm a software generalist with over a decade of experience writing code. My trai
 ## Skills
 
 <ul class="multicol-3">
+  <li>Swift</li>
   <li>Node JS</li>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Swift</li>
   <li>SQL</li>
   <li>Express JS</li>
   <li>React</li>
