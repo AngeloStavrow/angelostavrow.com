@@ -1,8 +1,9 @@
 ---
 title: "Yes, I'm Changing My Blog Too"
-date: 2021-01-02T09:17:59-05:00
-draft: true
+date: 2021-01-02T10:00:00-05:00
+draft: false
 summary: I haven't posted anything to the blog living at angelostavrow.com in about two and a half months. That doesn't mean I haven't been writing.
+tags: ["news", "indigo"]
 ---
 
 Like many folks who keep a blog, I like to fiddle with setups and reorganize my "online presence" every so often. But I've come to realize that the problem with _fiddling_ is that it's a distraction from _doing_. And if I want to do more (of whatever), then I've got to not only reduce the fiddling, but the friction as well.
