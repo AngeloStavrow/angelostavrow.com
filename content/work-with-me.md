@@ -3,7 +3,7 @@ title: "Work With Me"
 draft: false
 ---
 
-<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have some availability for September 2020.</strong></p>
+<p style="border:1px solid #0d7b76;border-radius:0.5em;padding:1em;text-align:center"><strong>I currently have availability for March 2021.</strong></p>
 
 ## About Me
 
@@ -29,8 +29,8 @@ I'm a software generalist with over a decade of experience writing code. My trai
 ## Skills
 
 <ul class="multicol-3">
-  <li>Swift</li>
-  <li>Node JS</li>
+  <li>Swift/SwiftUI</li>
+  <li>Node.js</li>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
